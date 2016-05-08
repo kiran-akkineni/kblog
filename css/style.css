@@ -950,17 +950,17 @@ a {
 #header .header-nav .social .Tumblr::before {
   content: '\f173';
 }
-#header .header-nav .social .Snapchat {
-  background: #3a5976;
-}
-#header .header-nav .social .Snapchat::before {
-  content: '\f173';
-}
 #header .header-nav .social ._500px {
   background: #0099e5;
 }
 #header .header-nav .social ._500px::before {
   content: '\f26e';
+}
+#header .header-nav .social .Snapchat {
+  background: #fffc00;
+}
+#header .header-nav .social .Snapchat::before {
+  content: '\f23a';
 }
 .duoshuo {
   padding: 0 40px;
