@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://kiran-akkineni.github.io/about.html</loc>
+        <lastmod>2016-05-09T03:28:36.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://kiran-akkineni.github.io/hello-world.html</loc>
         <lastmod>2016-05-08T04:18:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
