@@ -3,7 +3,22 @@
 
     <sitemap>
         <loc>https://kiran-akkineni.github.io/post-sitemap.xml</loc>
-        <lastmod>2016-05-09T00:50:41.000Z</lastmod>
+        <lastmod>2016-05-09T00:55:31.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://kiran-akkineni.github.io/page-sitemap.xml</loc>
+        <lastmod>2016-05-08T04:18:22.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://kiran-akkineni.github.io/category-sitemap.xml</loc>
+        <lastmod>2016-05-09T00:55:31.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://kiran-akkineni.github.io/tag-sitemap.xml</loc>
+        <lastmod>2016-05-09T00:55:31.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
