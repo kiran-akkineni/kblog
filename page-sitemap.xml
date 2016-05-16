@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://kiran-akkineni.github.io</loc>
+        <loc>http://kiranakkineni.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>https://kiran-akkineni.github.io/about.html</loc>
+        <loc>http://kiranakkineni.com/about.html</loc>
         <lastmod>2016-05-10T04:30:27.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://kiran-akkineni.github.io/hello-world.html</loc>
+        <loc>http://kiranakkineni.com/hello-world.html</loc>
         <lastmod>2016-05-08T04:18:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
