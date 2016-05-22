@@ -14,15 +14,29 @@
     </url>
     
     <url>
-        <loc>http://kiranakkineni.com/about.html</loc>
-        <lastmod>2016-05-10T04:30:27.000Z</lastmod>
+        <loc>http://kiranakkineni.com/tags/Ideas/index.html</loc>
+        <lastmod>2016-05-16T01:16:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://kiranakkineni.com/hello-world.html</loc>
-        <lastmod>2016-05-08T04:18:22.000Z</lastmod>
+        <loc>http://kiranakkineni.com/tags/Kiran/index.html</loc>
+        <lastmod>2016-05-16T01:16:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://kiranakkineni.com/tags/Startups/index.html</loc>
+        <lastmod>2016-05-16T01:16:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://kiranakkineni.com/about.html</loc>
+        <lastmod>2016-05-10T04:30:27.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
