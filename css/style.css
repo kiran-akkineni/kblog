@@ -896,6 +896,12 @@ a {
 #header .header-nav .social .Facebook::before {
   content: '\f09a';
 }
+#header .header-nav .social .Snapchat {
+  background: #fffc00;
+}
+#header .header-nav .social .Snapchat::before {
+  content: '\f2ab';
+}
 #header .header-nav .social .QQ {
   background: #1cbcef;
 }
