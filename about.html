@@ -352,67 +352,52 @@ I’ve spent the majority of my career in e-commerce, and have been lucky enough
 </ul>
 <h4 id="Places">
   <a href="#Places" class="headerlink" title="Places"></a>Places</h4>
-<div id="googleMap2188" style="
-            height: 450px;
-            width: 100%;
-            margin: 0px;
-            padding: 0px
-            ">
-</div>
+<div id="googleMap9830" style="height:450px;width:100%;margin:0;padding:0"></div>
 <style>
   .gmnoprint img {
-    max-width: none !important;
+    max-width: none!important
   }
 
 </style>
-<script defer="defer">
-  window.hexoGmaps = window.hexoGmaps || {
-    maps: {}
-  };
-  window.hexoGmaps.maps['initgoogleMap2188'] = function init() {
-    var mapOptions = {
-        'scrollwheel': false,
-        'zoom': 11,
-        'center': new window.google.maps.LatLng(37.80, -122.35),
-      },
-      target = document.getElementById('googleMap2188'),
-      map = new window.google.maps.Map(target, mapOptions);
-    var opts0 = {
-      'position': new window.google.maps.LatLng(37.8313, -122.2852),
-      'map': map,
-      'title': 'Where I live',
-      'zIndex': 0,
-      'icon': 'http://google-maps-icons.googlecode.com/files/home.png'
-    };
-    var marker0 = new window.google.maps.Marker(opts0);
-    var opts1 = {
-      'position': new window.google.maps.LatLng(37.7599, -122.4148),
-      'map': map,
-      'title': 'Where I work',
-      'zIndex': 1,
-      'icon': 'http://google-maps-icons.googlecode.com/files/company.png'
-    };
-    var marker1 = new window.google.maps.Marker(opts1);
-  }
-
+<script defer>
   function makeMaps() {
-    for (var map in window.hexoGmaps.maps) {
-      console.log('map #', map);
-      window.hexoGmaps.maps[map]();
-    }
+    for (var o in window.hexoGmaps.maps) console.log("map #", o), window.hexoGmaps
+      .maps[o]()
   }
 
   function loadScript() {
-    window.hexoGmaps.googleScriptLoaded = true;
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src =
-      'https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps';
-    document.body.appendChild(script);
+    window.hexoGmaps.googleScriptLoaded = !0;
+    var o = document.createElement("script");
+    o.type = "text/javascript", o.src =
+      "https://maps.googleapis.com/maps/api/js?v=3.exp&callback=makeMaps",
+      document.body.appendChild(o)
   }
-  if (!window.hexoGmaps.googleScriptLoaded) {
-    loadScript();
-  }
+  window.hexoGmaps = window.hexoGmaps || {
+    maps: {}
+  }, window.hexoGmaps.maps.initgoogleMap9830 = function() {
+    var o = {
+        scrollwheel: !1,
+        zoom: 11,
+        center: new window.google.maps.LatLng(37.8, -122.35)
+      },
+      e = document.getElementById("googleMap9830"),
+      a = new window.google.maps.Map(e, o),
+      n = {
+        position: new window.google.maps.LatLng(37.8313, -122.2852),
+        map: a,
+        title: "Where I live",
+        zIndex: 0,
+        icon: "http://google-maps-icons.googlecode.com/files/home.png"
+      },
+      p = (new window.google.maps.Marker(n), {
+        position: new window.google.maps.LatLng(37.7599, -122.4148),
+        map: a,
+        title: "Where I work",
+        zIndex: 1,
+        icon: "http://google-maps-icons.googlecode.com/files/company.png"
+      });
+    new window.google.maps.Marker(p)
+  }, window.hexoGmaps.googleScriptLoaded || loadScript()
 
 </script>
 
