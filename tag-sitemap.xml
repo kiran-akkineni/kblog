@@ -2,27 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Startup-ideas/</loc>
-        <lastmod>2016-05-22T23:10:13.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/Startups/</loc>
-        <lastmod>2016-05-22T23:10:13.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/Kiran-Akkineni/</loc>
-        <lastmod>2016-05-22T23:32:59.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://kiranakkineni.com/tags/Reads/</loc>
         <lastmod>2016-05-22T23:32:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,6 +32,55 @@
     <url>
         <loc>http://kiranakkineni.com/tags/Perspectives/</loc>
         <lastmod>2016-05-22T23:32:59.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Startups/</loc>
+        <lastmod>2016-05-26T03:39:47.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Stock-options/</loc>
+        <lastmod>2016-05-26T03:39:47.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/ESO/</loc>
+        <lastmod>2016-05-26T03:39:47.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Startup-ideas/</loc>
+        <lastmod>2016-05-26T03:41:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Legal/</loc>
+        <lastmod>2016-05-26T03:41:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Crowdsourcing/</loc>
+        <lastmod>2016-05-26T03:41:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Kiran-Akkineni/</loc>
+        <lastmod>2016-05-26T03:41:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
