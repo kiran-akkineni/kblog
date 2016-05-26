@@ -80,8 +80,6 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Reads" scheme="http://kiranakkineni.com/tags/Reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
@@ -91,6 +89,8 @@
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -145,13 +145,13 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
       <category term="Crowdsourcing" scheme="http://kiranakkineni.com/tags/Crowdsourcing/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -208,15 +208,129 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Stock options" scheme="http://kiranakkineni.com/tags/Stock-options/"/>
     
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Weekly-commute-reads-2016-Jan25</title>
+    <link href="http://kiranakkineni.com/Weekly-commute-reads-2016-Jan25/2016/01/25/"/>
+    <id>http://kiranakkineni.com/Weekly-commute-reads-2016-Jan25/2016/01/25/</id>
+    <published>2016-01-26T05:25:33.000Z</published>
+    <updated>2016-05-26T04:36:59.000Z</updated>
+    
+    <content type="html">&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.de7e6u954&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Misused mobile UX patterns&lt;/a&gt; by Zoltan Kollin&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘Experiments show, however, that exposing menu options in a more visible way increases
+    engagement, user satisfaction and even revenue’&lt;/li&gt;
+  &lt;li&gt;‘Basic functionality can be effectively represented by icons but for complex features,
+    text labels should be used. (And if you use icons, always have them usability
+    tested.)’&lt;/li&gt;
+  &lt;li&gt;Onboarding: Promotes progressive onboarding over overlays, because users tend to
+    skip intros and tutorials. Empty state / blank slate needs to be simple and intuitive.
+    Potentially have less options than once the page starts populating&lt;/li&gt;
+  &lt;li&gt;More companies are moving towards combining intuitive text with icons for the mobile
+    experience →
+    &lt;a href=&quot;http://thomasbyttebier.be/blog/the-best-icon-is-a-text-label&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://thomasbyttebier.be/blog/the-best-icon-is-a-text-label&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/bridge-collection/the-first-15-seconds-9590d7dabc#.6f3d0e8n1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The First 15 Seconds&lt;/a&gt; by Scott Belsky&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘An effective hook appeals to short term interests (one’s laziness, vanity, and
+    self-interests) that are connected to a long term promise.’&lt;/li&gt;
+  &lt;li&gt;‘As you build your product or service, bifurcate your approach […] initially, your
+    prospective customers are lazy, vain, and selfish.Optimize for the first 15 seconds
+    as a compartmentalized project. And then, for the customers that survive the
+    first 15 seconds and actually come through the door, build a meaningful experience
+    and relationship that lasts a lifetime’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Sunk Cost Fallacy&lt;/a&gt; by David McRaney&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘Your decisions are tainted by the emotional investments you accumulate, and the
+    more you invest in something the harder it becomes to abandon it’&lt;/li&gt;
+  &lt;li&gt;‘When offered a chance to accept or reject a gamble, most people refuse to make
+    take a bet unless the possible payoff is around double the potential loss’&lt;/li&gt;
+  &lt;li&gt;‘This is the powerful force behind Farmville. Playing Farmville is a commitment
+    to a virtual life form. Your neglect has consequences. If you don’t return, your
+    investments die and you will feel like you wasted your time, money and effort.
+    You must return, sometimes days later, to reap the reward of the time and virtual
+    money you are spending now. If you don’t, not only do you not get rewarded, you
+    lose your investments’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://stratechery.com/2016/how-facebook-squashed-twitter/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;How Facebook Squashed Twitter&lt;/a&gt; by Ben Thompson
+  &lt;br&gt;The idea of a “smartphone” that could connect to the Internet and run applications
+  was around long before 2007; Apple…stratechery.com&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘as of 2009, not only was it easier to get started with Facebook, but it was also
+    more likely that the service had enough interesting content to ensure most users
+    had no desire to look for something better’&lt;/li&gt;
+  &lt;li&gt;‘When it comes to “the empty spaces” most people don’t want to do work, but work
+    is exactly what Twitter required. You had to know what you were interested in,
+    know who to follow based on those interests, and then, to top it all off, you
+    had to pick out the parts that you were interested in from a stream of unfiltered
+    tweets; Facebook, in contrast, did the work for you’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://blog.samaltman.com/before-growth&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Before Growth&lt;/a&gt; by Sam Altman&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘“do any users love our product so much they spontaneously tell other people to
+    use it?”’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/@satyap/what-s-your-startup-s-superpower-f9392cbba4bc#.34knuvt0c&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;What’s your startup’s superpower?&lt;/a&gt; by Satya Patel&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘Google is best in the world at search. Facebook is best in the world at building
+    a social network. Apple is best in the world at building integrated software
+    and hardware for consumers. All of those markets are or were incredibly crowded’&lt;/li&gt;
+  &lt;li&gt;‘Google knew that to be best in search in needed the best data infrastructure.
+    Facebook knew that if it wanted the largest social network it needed a competency
+    around growth of that network. And Apple knew that if it wanted to build devices
+    for the average consumer, it needed simple and beautiful design’&lt;/li&gt;
+  &lt;li&gt;‘Once you answer that question, you can focus on the development of that superpower
+    rather than on things that make you temporarily different or different in a way
+    that is easy to replicate’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.bloomberg.com/news/articles/2015-12-20/bezos-s-behind-the-scenes-role-in-washington-post-s-web-growth&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Bezos’s Behind-the-Scenes Role in the Washington Post’s Web Growth&lt;/a&gt; by Gerry
+  Smith&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘They talk about reducing “cognitive overhead” and “friction” that discourages
+    readers from signing up for e-mail newsletters. Bezos calls ideas that could
+    upset Post subscribers, like jamming too many ads on a Web page, “reader hostile.”’&lt;/li&gt;
+  &lt;li&gt;‘Bezos requires Post executives to write lengthy memos outlining their projects
+    instead of using PowerPoint presentations, believing that narrative writing forces
+    people to think more deeply’&lt;/li&gt;
+  &lt;li&gt;‘Inside the new newsroom in Washington […] a large screen displays real-time traffic
+    statistics of stories on its website. […] Bezos suggested measuring whether readers
+    prefer the Post to its rivals. So engineers created a program that takes articles
+    from [competitors], strips out their branding, then surveys readers on which
+    articles they’d rather read’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Stack fallacy — Common cause of big companies missing out&lt;/a&gt; by Anshu Sharma&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.foundingfuel.com/article/the-fault-in-our-startups/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The fault in our startups&lt;/a&gt; by Haresh Chawla&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;
+  &lt;a href=&quot;https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.de7e6u954&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Misused mobile
+    
+    </summary>
+    
     
   </entry>
   
