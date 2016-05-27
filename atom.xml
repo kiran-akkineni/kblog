@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-27T03:01:43.000Z</updated>
+  <updated>2016-05-27T04:34:44.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-May16/2016/05/22/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-May16/2016/05/22/</id>
     <published>2016-05-22T22:05:53.000Z</published>
-    <updated>2016-05-27T03:01:43.000Z</updated>
+    <updated>2016-05-27T04:34:44.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;Work&quot;&gt;
   &lt;a href=&quot;#Work&quot; class=&quot;headerlink&quot; title=&quot;Work&quot;&gt;&lt;/a&gt;Work&lt;/h1&gt;
@@ -87,6 +87,8 @@
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
@@ -225,7 +227,7 @@
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan25/2016/01/25/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan25/2016/01/25/</id>
     <published>2016-01-26T05:25:33.000Z</published>
-    <updated>2016-05-27T04:22:38.000Z</updated>
+    <updated>2016-05-27T04:34:26.000Z</updated>
     
     <content type="html">&lt;p&gt;
   &lt;a href=&quot;https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.de7e6u954&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Misused mobile UX patterns&lt;/a&gt; by Zoltan Kollin&lt;/p&gt;
@@ -344,7 +346,7 @@
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
-      <category term="Product" scheme="http://kiranakkineni.com/tags/Product/"/>
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -355,7 +357,7 @@
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/18/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/18/</id>
     <published>2016-01-19T05:25:33.000Z</published>
-    <updated>2016-05-27T04:28:15.000Z</updated>
+    <updated>2016-05-27T04:34:14.000Z</updated>
     
     <content type="html">&lt;p&gt;
   &lt;a href=&quot;https://stratechery.com/2016/the-fang-playbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The FANG Playbook&lt;/a&gt; by Ben Thompson&lt;/p&gt;
@@ -458,7 +460,7 @@
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
-      <category term="Product" scheme="http://kiranakkineni.com/tags/Product/"/>
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
