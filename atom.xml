@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-22T23:32:59.000Z</updated>
+  <updated>2016-05-27T03:01:43.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Weekly commute reads, week of May 16 2016</title>
+    <title>Weekly reads, week of May 16 2016</title>
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-May16/2016/05/22/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-May16/2016/05/22/</id>
     <published>2016-05-22T22:05:53.000Z</published>
-    <updated>2016-05-22T23:32:59.000Z</updated>
+    <updated>2016-05-27T03:01:43.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;Work&quot;&gt;
   &lt;a href=&quot;#Work&quot; class=&quot;headerlink&quot; title=&quot;Work&quot;&gt;&lt;/a&gt;Work&lt;/h1&gt;
@@ -221,11 +221,11 @@
   </entry>
   
   <entry>
-    <title>Weekly commute reads, week of January 25 2016</title>
+    <title>Weekly reads, week of January 25 2016</title>
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan25/2016/01/25/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan25/2016/01/25/</id>
     <published>2016-01-26T05:25:33.000Z</published>
-    <updated>2016-05-26T04:40:21.000Z</updated>
+    <updated>2016-05-27T03:01:33.000Z</updated>
     
     <content type="html">&lt;p&gt;
   &lt;a href=&quot;https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.de7e6u954&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Misused mobile UX patterns&lt;/a&gt; by Zoltan Kollin&lt;/p&gt;
@@ -336,11 +336,11 @@
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Reads" scheme="http://kiranakkineni.com/tags/Reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
