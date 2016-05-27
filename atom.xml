@@ -149,11 +149,11 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
       <category term="Crowdsourcing" scheme="http://kiranakkineni.com/tags/Crowdsourcing/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -212,13 +212,13 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Stock options" scheme="http://kiranakkineni.com/tags/Stock-options/"/>
     
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -336,9 +336,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Reads" scheme="http://kiranakkineni.com/tags/Reads/"/>
     
@@ -450,9 +450,122 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
+      <category term="Reads" scheme="http://kiranakkineni.com/tags/Reads/"/>
+    
+      <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Weekly reads, week of January 11 2016</title>
+    <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan11/2016/01/11/"/>
+    <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan11/2016/01/11/</id>
+    <published>2016-01-12T05:25:33.000Z</published>
+    <updated>2016-05-27T04:54:57.000Z</updated>
+    
+    <content type="html">&lt;p&gt;
+  &lt;a href=&quot;http://firstround.com/review/the-story-behind-how-pocket-hit-20m-users-with-20-people/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Story Behind How Pocket Hit 20M Users with 20 People&lt;/a&gt; via First Round&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This one is worth reading multiple times.&lt;/li&gt;
+  &lt;li&gt;Small, understaffed companies have the opportunity to ruthlessly prioritize ‘the
+    most important thing’. Don’t waste this opportunity.&lt;/li&gt;
+  &lt;li&gt;All companies face the challenge of losing focus. When the entire company is working
+    on fewer things, synergy effects result in big productivity gains.&lt;/li&gt;
+  &lt;li&gt;Leaders at every level over-index on their influence on the company’s culture.
+    If it’s not working the way you want, look inward.&lt;/li&gt;
+  &lt;li&gt;Make your product dead simple. The easier it is to learn, the easier it is to engage.
+    The easier it is to engage, the easier it is to find value.&lt;/li&gt;
+  &lt;li&gt;Power users are a great collective PM. Utilize them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/@producthunt/the-rise-and-fall-of-everest-the-app-b0d2e6cb594c#.72amnuqvu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Rise and Fall of Everest (the App)&lt;/a&gt; via Katherine Krug&lt;/p&gt;
+&lt;p&gt;Reflecting upon the demise of a promising goal-accomplishment platform.&lt;/p&gt;
+&lt;p&gt;Positives = great design, sales pitch, and investors&lt;/p&gt;
+&lt;p&gt;Not so positive =&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Too many features outside of the core offering&lt;/li&gt;
+  &lt;li&gt;Site speed and tech debt matter…to a degree. Blaming the cofounder is a bit disingenuous,
+    but what follows makes sense. Don’t overbet on big features that you haven’t
+    tested for user interest (and that may be outside your core offering). Also,
+    unit testing is really important (as is, one could argue, dogfooding).&lt;/li&gt;
+  &lt;li&gt;Didn’t pick and effectively track core metrics&lt;/li&gt;
+  &lt;li&gt;Cash burn&lt;/li&gt;
+  &lt;li&gt;Didn’t build a strong user feedback mechanism. Comments around not cracking motivation,
+    etc, belie a lack of obsessive customer focus. Great comments later on regarding
+    making it easy first, then fast, and then pretty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/@blakeross/how-to-swallow-200-million-accidentally-c7d8ed57e625#.clwv50uef&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;How to Swallow $200 Million Accidentally&lt;/a&gt; by Blake Ross&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“Judge a company’s priorities by it’s pixels” can also be pointed inwards. Judge
+    your own company’s priorities by its pixels. Make your company’s pixels reflect
+    it’s priorities.&lt;/li&gt;
+  &lt;li&gt;“Professional assassins don’t introduce themselves” — It makes sense to test and
+    iterate on relatively small % of your population, so well-positioned competitors
+    don’t jump into the fray before you’ve worked through the kinks. Easier to do
+    for a small startup than a Facebook of course.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/building-a-design-driven-culture&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Building a design-driven culture&lt;/a&gt; by Jennifer Kilian, Hugo Sarrazin, and Hyo
+  Yeon&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;User empathy and UX focus produce compound returns over time. Many companies state
+    that they focus on these things, but metrics and budgets state otherwise.&lt;/li&gt;
+  &lt;li&gt;Understanding the ‘why’ behind customer activity is meaningfully more important
+    than the ‘what’&lt;/li&gt;
+  &lt;li&gt;Move fast and iterate. “Consider Instagram, which launched by rolling out a product,
+    learning which features were most popular (image sharing, commenting, and liking),
+    and then relaunching a stripped-down version.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.washingtonpost.stfi.re/business/economy/shoppers-are-choosing-experiences-over-stuff-and-thats-bad-news-for-retailers/2016/01/07/eaa80b5a-b4a7-11e5-a76a-0b5145e8679a_story.html?sf=oorodr#aa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Shoppers are choosing experiences over stuff, and that’s bad news for retailers&lt;/a&gt;
+  by Sarah Halzack&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Retail product sales were weak over the holiday season; however air travel and
+    restaurant sales were relatively strong. Hypothesis is that this represents a
+    millenial-driven mix shift in preferences towards experiences over materials.&lt;/li&gt;
+  &lt;li&gt;Physical retailers are experimenting with incorporating more engaging interactions
+    into the shopping experience. Nordstrom allows users to design their own shoes.
+    Lululemon enabling exercise. Urban Outfitters and Pizza?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://www.cbinsights.com/blog/startup-failure-post-mortem/#2015update&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;More reads 146 Startup Failure Post-Mortems&lt;/a&gt; via CB Insights&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lots of good lessons in here, but the biggest takeaway is that there are a lot
+    of ways that things can go wrong, and a lot of luck involved.&lt;/li&gt;
+  &lt;li&gt;Until product-market fit is achieved (and long after), maintaining speed and discipline
+    creates the greatest odds of success.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://tomtunguz.com/how-many-funnels-in-your-product/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;How Many Funnels Does Your Startup’s Product Have?&lt;/a&gt; by Tomasz Tunguz&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fairly straightforward read → map / know / understand your funnels&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;
+  &lt;a href=&quot;http://firstround.com/review/the-story-behind-how-pocket-hit-20m-users-with-20-people/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The St
+    
+    </summary>
+    
+      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
+    
+    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Reads" scheme="http://kiranakkineni.com/tags/Reads/"/>
     
