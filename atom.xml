@@ -221,120 +221,6 @@
   </entry>
   
   <entry>
-    <title>Weekly reads, week of January 18 2016</title>
-    <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/25/"/>
-    <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/25/</id>
-    <published>2016-01-26T05:25:33.000Z</published>
-    <updated>2016-05-27T04:22:22.000Z</updated>
-    
-    <content type="html">&lt;p&gt;
-  &lt;a href=&quot;https://stratechery.com/2016/the-fang-playbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The FANG Playbook&lt;/a&gt; by Ben Thompson&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Each of the FANG companies was technically innovative in their own way […] but
-    each of them […]depended to an incredible degree on products and infrastructure
-    that already existed&lt;/li&gt;
-  &lt;li&gt;‘By owning the consumer entry point — the primary choke point — […] the FANG companies
-    have been able to modularize and commoditize their suppliers’&lt;/li&gt;
-  &lt;li&gt;‘they are “aggregators” who start with the best customers and don’t really compete
-    with incumbent companies, at least in the beginning. In fact, incumbents nearly
-    universally benefit from the presence of aggregators, at least at first’&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-  &lt;a href=&quot;https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Nobody Wants To Use Your Product&lt;/a&gt; by Goran Peuc&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;‘People are not really into using products. Any time spent by a user operating
-    an interface, twisting knobs, pulling levers or tapping buttons is time wasted.
-    Rather, people are more interested in the end result and in obtaining that result
-    in the quickest, least intrusive and most efficient manner possible’&lt;/li&gt;
-  &lt;li&gt;‘When you think about it, do you really want to work on heating up your food, or
-    do you just want your food to be hot? This is why microwave ovens can be found
-    in basically every modern kitchen; it removes as much work as possible from the
-    process of heating food. Of course, quite a lot of manufacturers still do not
-    realize this and make their microwave ovens overly complicated with too many
-    buttons and settings.’&lt;/li&gt;
-  &lt;li&gt;‘This difference in approach — building for features versus building for result — can
-    be seen in numerous products today, both digital and physical. The main reason
-    why some products are great is that they take the load off of users and assist
-    them in making decisions.’&lt;/li&gt;
-  &lt;li&gt;Lots of great examples: Nest, Dropbox, Google search, Gov.uk, Amazon Dash, Apple
-    updates vs. Adobe Flash updates, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-  &lt;a href=&quot;http://www.digitaltonto.com/2016/the-power-of-focus/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Power Of Focus&lt;/a&gt; by Greg&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;IBM’s modern-day roots began as a function of refocusing. This cultural trait served
-    IBM well when facing more innovative competition, by relying on superior execution.
-    100 years later today, IBM is a longtime regular on S&amp;amp;P 500, in an age where
-    the avg S&amp;amp;P lifespan is 10 years.&lt;/li&gt;
-  &lt;li&gt;Mission drives strategy - ‘The truth is that your mission needs to drive your strategy,
-    not the other way around. Genuine excellence requires passion, commitment and
-    consistency. You can’t create that in a boardroom meeting or a strategy session.
-    It takes focus over an extended period of time.’&lt;/li&gt;
-  &lt;li&gt;‘To be a great performer — in any field — you simply have to do things better.
-    That takes work. You need continually up your game over a period of years — or
-    even decades — in order to get it right. That takes focus.’&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-  &lt;a href=&quot;http://marketingland.com/a-cmos-view-amazons-neil-lindsay-says-customer-obsession-is-core-to-companys-dna-160153&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;A CMO’s View: Amazon’s Neil Lindsay Says Customer Obsession Is Core To Company’s
-    DNA&lt;/a&gt; by Amy Gesenhues&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;‘Amazon makes the customer its top priority, aiming to create an experience so
-    magical “… it disappears into our customer’s every day as their new normal.”’&lt;/li&gt;
-  &lt;li&gt;Article stated takeaways: ‘Treat the customer as an individual, not a segment.
-    Invest in earning trust, and never take it for granted. Think about making magic,
-    more than making money.’&lt;/li&gt;
-  &lt;li&gt;‘We always work backwards from the experience we believe an individual customer
-    might appreciate, before we develop anything.’&lt;/li&gt;
-  &lt;li&gt;‘I don’t formally “lead” the customer experience efforts, except in the same way
-    as everyone in the company leads customer experience — it’s part of everyone’s
-    job, every day.’&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-  &lt;a href=&quot;http://sixteenventures.com/customer-onboarding&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Secret to Successful Customer Onboarding&lt;/a&gt; by Lincoln Murphy&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;This article is about SAAS companies, but some good transferables.&lt;/li&gt;
-  &lt;li&gt;Onboarded should be defined by the customer, not the business.&lt;/li&gt;
-  &lt;li&gt;Know when the first value has been delivered, and drive the next level of engagement
-    from that point.&lt;/li&gt;
-  &lt;li&gt;Talk to users to understand both of the above&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-  &lt;a href=&quot;http://www.lukew.com/ff/entry.asp?1954&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mobile Web vs. Native Apps or Why You Want Both&lt;/a&gt; by Luke Wroblewski&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Important to effectively utilize both mobile web and mobile app&lt;/li&gt;
-  &lt;li&gt;App has significantly better usage (retention), but web has significantly better
-    reach (acquisition)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;
-  &lt;a href=&quot;https://stratechery.com/2016/the-fang-playbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The FANG Playbook&lt;/a&gt; by Ben Thompson&lt;/p&gt;
-&lt;ul
-    
-    </summary>
-    
-      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
-    
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
-      <category term="Reads" scheme="http://kiranakkineni.com/tags/Reads/"/>
-    
-      <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
-    
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
-      <category term="Product" scheme="http://kiranakkineni.com/tags/Product/"/>
-    
-      <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Weekly reads, week of January 25 2016</title>
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan25/2016/01/25/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan25/2016/01/25/</id>
@@ -442,6 +328,120 @@
     
       &lt;p&gt;
   &lt;a href=&quot;https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.de7e6u954&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Misused mobile
+    
+    </summary>
+    
+      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Reads" scheme="http://kiranakkineni.com/tags/Reads/"/>
+    
+      <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product" scheme="http://kiranakkineni.com/tags/Product/"/>
+    
+      <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Weekly reads, week of January 18 2016</title>
+    <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/18/"/>
+    <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/18/</id>
+    <published>2016-01-19T05:25:33.000Z</published>
+    <updated>2016-05-27T04:23:22.000Z</updated>
+    
+    <content type="html">&lt;p&gt;
+  &lt;a href=&quot;https://stratechery.com/2016/the-fang-playbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The FANG Playbook&lt;/a&gt; by Ben Thompson&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Each of the FANG companies was technically innovative in their own way […] but
+    each of them […]depended to an incredible degree on products and infrastructure
+    that already existed&lt;/li&gt;
+  &lt;li&gt;‘By owning the consumer entry point — the primary choke point — […] the FANG companies
+    have been able to modularize and commoditize their suppliers’&lt;/li&gt;
+  &lt;li&gt;‘they are “aggregators” who start with the best customers and don’t really compete
+    with incumbent companies, at least in the beginning. In fact, incumbents nearly
+    universally benefit from the presence of aggregators, at least at first’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Nobody Wants To Use Your Product&lt;/a&gt; by Goran Peuc&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘People are not really into using products. Any time spent by a user operating
+    an interface, twisting knobs, pulling levers or tapping buttons is time wasted.
+    Rather, people are more interested in the end result and in obtaining that result
+    in the quickest, least intrusive and most efficient manner possible’&lt;/li&gt;
+  &lt;li&gt;‘When you think about it, do you really want to work on heating up your food, or
+    do you just want your food to be hot? This is why microwave ovens can be found
+    in basically every modern kitchen; it removes as much work as possible from the
+    process of heating food. Of course, quite a lot of manufacturers still do not
+    realize this and make their microwave ovens overly complicated with too many
+    buttons and settings.’&lt;/li&gt;
+  &lt;li&gt;‘This difference in approach — building for features versus building for result — can
+    be seen in numerous products today, both digital and physical. The main reason
+    why some products are great is that they take the load off of users and assist
+    them in making decisions.’&lt;/li&gt;
+  &lt;li&gt;Lots of great examples: Nest, Dropbox, Google search, Gov.uk, Amazon Dash, Apple
+    updates vs. Adobe Flash updates, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.digitaltonto.com/2016/the-power-of-focus/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Power Of Focus&lt;/a&gt; by Greg&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;IBM’s modern-day roots began as a function of refocusing. This cultural trait served
+    IBM well when facing more innovative competition, by relying on superior execution.
+    100 years later today, IBM is a longtime regular on S&amp;amp;P 500, in an age where
+    the avg S&amp;amp;P lifespan is 10 years.&lt;/li&gt;
+  &lt;li&gt;Mission drives strategy - ‘The truth is that your mission needs to drive your strategy,
+    not the other way around. Genuine excellence requires passion, commitment and
+    consistency. You can’t create that in a boardroom meeting or a strategy session.
+    It takes focus over an extended period of time.’&lt;/li&gt;
+  &lt;li&gt;‘To be a great performer — in any field — you simply have to do things better.
+    That takes work. You need continually up your game over a period of years — or
+    even decades — in order to get it right. That takes focus.’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://marketingland.com/a-cmos-view-amazons-neil-lindsay-says-customer-obsession-is-core-to-companys-dna-160153&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;A CMO’s View: Amazon’s Neil Lindsay Says Customer Obsession Is Core To Company’s
+    DNA&lt;/a&gt; by Amy Gesenhues&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;‘Amazon makes the customer its top priority, aiming to create an experience so
+    magical “… it disappears into our customer’s every day as their new normal.”’&lt;/li&gt;
+  &lt;li&gt;Article stated takeaways: ‘Treat the customer as an individual, not a segment.
+    Invest in earning trust, and never take it for granted. Think about making magic,
+    more than making money.’&lt;/li&gt;
+  &lt;li&gt;‘We always work backwards from the experience we believe an individual customer
+    might appreciate, before we develop anything.’&lt;/li&gt;
+  &lt;li&gt;‘I don’t formally “lead” the customer experience efforts, except in the same way
+    as everyone in the company leads customer experience — it’s part of everyone’s
+    job, every day.’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://sixteenventures.com/customer-onboarding&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Secret to Successful Customer Onboarding&lt;/a&gt; by Lincoln Murphy&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This article is about SAAS companies, but some good transferables.&lt;/li&gt;
+  &lt;li&gt;Onboarded should be defined by the customer, not the business.&lt;/li&gt;
+  &lt;li&gt;Know when the first value has been delivered, and drive the next level of engagement
+    from that point.&lt;/li&gt;
+  &lt;li&gt;Talk to users to understand both of the above&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.lukew.com/ff/entry.asp?1954&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mobile Web vs. Native Apps or Why You Want Both&lt;/a&gt; by Luke Wroblewski&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Important to effectively utilize both mobile web and mobile app&lt;/li&gt;
+  &lt;li&gt;App has significantly better usage (retention), but web has significantly better
+    reach (acquisition)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;
+  &lt;a href=&quot;https://stratechery.com/2016/the-fang-playbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The FANG Playbook&lt;/a&gt; by Ben Thompson&lt;/p&gt;
+&lt;ul
     
     </summary>
     
