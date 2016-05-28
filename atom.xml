@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-27T04:56:54.000Z</updated>
+  <updated>2016-05-28T15:44:05.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -16,14 +16,109 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Weekly reads, week of May 23 2016</title>
+    <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-May23/2016/05/28/"/>
+    <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-May23/2016/05/28/</id>
+    <published>2016-05-28T14:57:40.000Z</published>
+    <updated>2016-05-28T15:44:05.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Data-and-Tech&quot;&gt;
+  &lt;a href=&quot;#Data-and-Tech&quot; class=&quot;headerlink&quot; title=&quot;Data and Tech&quot;&gt;&lt;/a&gt;Data and Tech&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/the-coinbase-blog/ethereum-is-the-forefront-of-digital-currency-5300298f6c75#.nb3r0grfl&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ethereum is the Forefront of Digital Currency&lt;/a&gt; by Fred Ehrsam
+  &lt;br&gt;// Bitcoin proved the concepts behind blockchain and decentralized transactional
+  networks, but Ethereum may be a better path forward.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://www.ampproject.org/docs/support/faqs.html#what-is-the-accelerated-mobile-pages-project&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Accelerated Mobile Pages Project&lt;/a&gt;
+  &lt;br&gt;// One of the ways Google aims to circumvent Facebook and Apple’s app ecosystem.
+  Mobile-optimized, for high speed and exploration.&lt;/p&gt;
+&lt;h1 id=&quot;Strategy-and-business&quot;&gt;
+  &lt;a href=&quot;#Strategy-and-business&quot; class=&quot;headerlink&quot; title=&quot;Strategy and business&quot;&gt;&lt;/a&gt;Strategy and business&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://stratechery.com/2016/googles-go-to-market-gap/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google’s Go-To Market Gap&lt;/a&gt; by Ben Thompson
+  &lt;br&gt;// Hypothesis is that Google is the rare company that succeeded (immensely) almost
+  purely from having superior technology, rather than business development, operational
+  execution, marketing, product strategy, etc. Moving forward, this may present challenges
+  to the company’s ability to compete with superior businesses, in spite of better
+  tech.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://www.washingtonpost.com/news/wonk/wp/2016/05/19/the-apple-industrys-strange-savior/?tid=sm_tw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;A clever tweak to how apples are sold is making everyone eat more of them&lt;/a&gt; by
+  Roberto A Ferdman
+  &lt;br&gt;// Selling apples pre-sliced had a massive impact on fresh apple consumption. By
+  pre-slicing, children were much more willing to eat apples for lunch, as this reduced
+  seemingly miniscule challenges to eating apples. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://tomtunguz.com/leading-predictor-saas-series-a-valuation/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Leading Predictor Of Series A Valuation For SaaS Companies&lt;/a&gt; by Tomasz Tunguz
+  &lt;br&gt;// ‘The data underscores why building a great product is the first order of business
+  for a startup and why developing great customer success should be the second order
+  of business. Many founders do this instinctively, and develop a cadre of reference
+  customers.’&lt;/p&gt;
+&lt;h1 id=&quot;Perspectives&quot;&gt;
+  &lt;a href=&quot;#Perspectives&quot; class=&quot;headerlink&quot; title=&quot;Perspectives&quot;&gt;&lt;/a&gt;Perspectives&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.vox.com/2016/5/23/11704246/wealth-inequality-cartoon&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;This cartoon explains how the rich got rich and the poor got poor&lt;/a&gt; by Alvin
+  Chang
+  &lt;br&gt;// Strong hypothesis that wealth inequality is influenced by source of income (investment
+  for upper classes, paychecks for lower classes), and regulatory impacts (i.e. tax
+  policy) on those income sources. &lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://mobile.nytimes.com/2016/05/22/upshot/are-you-successful-if-so-youve-already-won-the-lottery.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Are You Successful? If So, You’ve Already Won the Lottery&lt;/a&gt; by Robert H Frank
+  &lt;br&gt;// Grit, effort, and ingenuity are rarely undervalued when assigning credit for
+  success, but humans tend to grossly underestimate the impact of luck. Reflecting
+  on one’s good fortune tends to generate a greater willingness to contribute to
+  others’ success.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://jamesclear.com/evolution-of-anxiety&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Evolution of Anxiety: Why We Worry and What to Do About It&lt;/a&gt; by James Clear
+  &lt;br&gt;// Although humans have evolved for a Immediate Return Environment, most of us
+  must operate within a Delayed Return Environment, which in turn generates anxiety.
+  Converting anxiety-induxing long-term issues into measurable (and smaller) tasks
+  can significantly alleviate anxiety.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://jamesclear.com/evolution-of-anxiety&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mongol hordes gave up on conquering Europe due to wet weather&lt;/a&gt; by Conor Gearin
+  &lt;br&gt;// Mongol hordes, which innovated upon war through the integration of cavalry,
+  may have retreated from central Europe primarily because of a swamp-like environment
+  in Hungary in the mid 1200s. Because the army was unable to provide pasture for
+  horses in Hungary, much of the disruptive advantage they had come to rely upon
+  disappeared. Not dissimilar to Napoleon’s army in wintertime Russia.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Data-and-Tech&quot;&gt;
+  &lt;a href=&quot;#Data-and-Tech&quot; class=&quot;headerlink&quot; title=&quot;Data and Tech&quot;&gt;&lt;/a&gt;Data and Tech&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://me
+    
+    </summary>
+    
+      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
+    
+      <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
+    
+      <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Weekly reads, week of May 16 2016</title>
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-May16/2016/05/22/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-May16/2016/05/22/</id>
     <published>2016-05-22T22:05:53.000Z</published>
-    <updated>2016-05-27T04:56:54.000Z</updated>
+    <updated>2016-05-28T15:44:01.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;Work&quot;&gt;
-  &lt;a href=&quot;#Work&quot; class=&quot;headerlink&quot; title=&quot;Work&quot;&gt;&lt;/a&gt;Work&lt;/h1&gt;
+    <content type="html">&lt;h1 id=&quot;Strategy-and-business&quot;&gt;
+  &lt;a href=&quot;#Strategy-and-business&quot; class=&quot;headerlink&quot; title=&quot;Strategy and business&quot;&gt;&lt;/a&gt;Strategy and business&lt;/h1&gt;
 &lt;p&gt;
   &lt;a href=&quot;http://www.slideshare.net/mokriya/what-is-product-management-61353217&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;What is Product Management&lt;/a&gt; by Mokriya
   &lt;br&gt;// Some perspectives on the function and its future.&lt;/p&gt;
@@ -70,10 +165,8 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Work&quot;&gt;
-  &lt;a href=&quot;#Work&quot; class=&quot;headerlink&quot; title=&quot;Work&quot;&gt;&lt;/a&gt;Work&lt;/h1&gt;
-&lt;p&gt;
-  &lt;a href=&quot;http://www.slideshare.net/mokriya/what-is-prod
+      &lt;h1 id=&quot;Strategy-and-business&quot;&gt;
+  &lt;a href=&quot;#Strategy-and-business&quot; class=&quot;headerlink&quot; title=&quot;Strategy and business&quot;&gt;&lt;/a&gt;Strategy and busines
     
     </summary>
     
@@ -86,7 +179,7 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
@@ -149,11 +242,11 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
       <category term="Crowdsourcing" scheme="http://kiranakkineni.com/tags/Crowdsourcing/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -212,13 +305,13 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Stock options" scheme="http://kiranakkineni.com/tags/Stock-options/"/>
     
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -336,17 +429,17 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -450,17 +543,17 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -563,17 +656,17 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
