@@ -3,7 +3,7 @@
 
     <sitemap>
         <loc>http://kiranakkineni.com/post-sitemap.xml</loc>
-        <lastmod>2016-05-28T15:44:05.000Z</lastmod>
+        <lastmod>2016-05-28T15:52:40.000Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -13,12 +13,12 @@
 
     <sitemap>
         <loc>http://kiranakkineni.com/category-sitemap.xml</loc>
-        <lastmod>2016-05-26T03:41:02.000Z</lastmod>
+        <lastmod>2016-05-28T15:44:05.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://kiranakkineni.com/tag-sitemap.xml</loc>
-        <lastmod>2016-05-26T03:39:47.000Z</lastmod>
+        <lastmod>2016-05-26T03:41:02.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
