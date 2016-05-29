@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-29T22:46:46.000Z</updated>
+  <updated>2016-05-29T23:12:24.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,34 +20,28 @@
     <link href="http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/"/>
     <id>http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/</id>
     <published>2016-05-29T21:26:41.000Z</published>
-    <updated>2016-05-29T22:46:46.000Z</updated>
+    <updated>2016-05-29T23:12:24.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;Whistleblowers-and-leaked-content&quot;&gt;
   &lt;a href=&quot;#Whistleblowers-and-leaked-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblowers and leaked content&quot;&gt;&lt;/a&gt;Whistleblowers and leaked content&lt;/h2&gt;
-&lt;p&gt;Currently whistleblowers can rely on platforms which use the anonymising networks
-  to allow relatively anonymous submission of sensitive information (the leaked content
-  cannot easily be traced back to the content provider). In order to use the network,
-  the whistleblower needs to download the appropriate software (i.e. browser) and
-  services, so some technical comfort level is required, and UX is not well-evolved.&lt;/p&gt;
+&lt;p&gt;Currently, whistleblowers can rely on platforms which use anonymising networks to
+  allow submission of sensitive information (the leaked content cannot easily be
+  traced back to the content provider). In order to use the network, the whistleblower
+  needs to download software (i.e. browser) and access services, so some basic technical
+  skill is required, and UX is not well-evolved.&lt;/p&gt;
 &lt;p&gt;UX issues aside, once the information has been submitted, it needs to be distributed.
   For whistleblowers,
   &lt;a href=&quot;https://en.wikipedia.org/wiki/GlobaLeaks&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;platforms&lt;/a&gt; exist which allow for distribution of anonymously leaked content.&lt;/p&gt;
 &lt;h2 id=&quot;Technologies&quot;&gt;
   &lt;a href=&quot;#Technologies&quot; class=&quot;headerlink&quot; title=&quot;Technologies&quot;&gt;&lt;/a&gt;Technologies&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;
-      &lt;a href=&quot;https://en.wikipedia.org/wiki/Tor_(anonymity_network&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tor&lt;/a&gt;) – Tor / Onion Services allows for the near-anonymous submission of
-      content, such that the content provider has limited vulnerability with regards
-      to being identified&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;
-      &lt;a href=&quot;https://en.wikipedia.org/wiki/Ethereum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ethereum&lt;/a&gt; – Ethereum is a
-      &lt;a href=&quot;https://en.wikipedia.org/wiki/Block_chain_(database&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;blockchain&lt;/a&gt;) platform that enables execution of smart contracts using ether,
-      a cryptocurrency.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Tor_anonymity_network&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tor&lt;/a&gt; – Tor / Onion Services allows for the near-anonymous submission of content,
+  such that the content provider has limited vulnerability with regards to being
+  identified&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Ethereum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ethereum&lt;/a&gt; – Ethereum is a
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Block_chain_database&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;blockchain&lt;/a&gt; platform that enables execution of smart contracts using ether,
+  a cryptocurrency.&lt;/p&gt;
 &lt;h2 id=&quot;Gawker&quot;&gt;
   &lt;a href=&quot;#Gawker&quot; class=&quot;headerlink&quot; title=&quot;Gawker&quot;&gt;&lt;/a&gt;Gawker&lt;/h2&gt;
 &lt;p&gt;
@@ -59,9 +53,9 @@
   The costs of defending the suit may put Gawker at risk of insolvency.&lt;/p&gt;
 &lt;h2 id=&quot;Anonymous-content-platform&quot;&gt;
   &lt;a href=&quot;#Anonymous-content-platform&quot; class=&quot;headerlink&quot; title=&quot;Anonymous content platform&quot;&gt;&lt;/a&gt;Anonymous content platform&lt;/h2&gt;
-&lt;p&gt;Although there are options for whistleblowers, do similar options for anonymous submission
-  &lt;em&gt;and&lt;/em&gt; distribution don’t seem to be widely used for ‘less serious’ content?
-  For example news, rumors, anonymous memoirs, etc.?&lt;/p&gt;
+&lt;p&gt;Although there are options for whistleblowers, do similar widely-used options exist
+  for anonymous submission and distribution of ‘less serious’ content? For example
+  news, rumors, anonymous memoirs, etc.?&lt;/p&gt;
 &lt;p&gt;Since these ‘less serious’ users may intend to produce content with the purpose of
   receiving payment, could payment mechanisms be created such that these users could
   be paid immediately and near-anonymously based on pre-existing terms (i.e. number
