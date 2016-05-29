@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-28T15:44:05.000Z</updated>
+  <updated>2016-05-29T22:46:46.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -14,6 +14,87 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Anonymous content platform</title>
+    <link href="http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/"/>
+    <id>http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/</id>
+    <published>2016-05-29T21:26:41.000Z</published>
+    <updated>2016-05-29T22:46:46.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Whistleblowers-and-leaked-content&quot;&gt;
+  &lt;a href=&quot;#Whistleblowers-and-leaked-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblowers and leaked content&quot;&gt;&lt;/a&gt;Whistleblowers and leaked content&lt;/h2&gt;
+&lt;p&gt;Currently whistleblowers can rely on platforms which use the anonymising networks
+  to allow relatively anonymous submission of sensitive information (the leaked content
+  cannot easily be traced back to the content provider). In order to use the network,
+  the whistleblower needs to download the appropriate software (i.e. browser) and
+  services, so some technical comfort level is required, and UX is not well-evolved.&lt;/p&gt;
+&lt;p&gt;UX issues aside, once the information has been submitted, it needs to be distributed.
+  For whistleblowers,
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/GlobaLeaks&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;platforms&lt;/a&gt; exist which allow for distribution of anonymously leaked content.&lt;/p&gt;
+&lt;h2 id=&quot;Technologies&quot;&gt;
+  &lt;a href=&quot;#Technologies&quot; class=&quot;headerlink&quot; title=&quot;Technologies&quot;&gt;&lt;/a&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;
+      &lt;a href=&quot;https://en.wikipedia.org/wiki/Tor_(anonymity_network&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tor&lt;/a&gt;) – Tor / Onion Services allows for the near-anonymous submission of
+      content, such that the content provider has limited vulnerability with regards
+      to being identified&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;
+      &lt;a href=&quot;https://en.wikipedia.org/wiki/Ethereum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ethereum&lt;/a&gt; – Ethereum is a
+      &lt;a href=&quot;https://en.wikipedia.org/wiki/Block_chain_(database&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;blockchain&lt;/a&gt;) platform that enables execution of smart contracts using ether,
+      a cryptocurrency.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Gawker&quot;&gt;
+  &lt;a href=&quot;#Gawker&quot; class=&quot;headerlink&quot; title=&quot;Gawker&quot;&gt;&lt;/a&gt;Gawker&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Gawker&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gawker&lt;/a&gt; is a highly publicized and well-read gossip publication which is currently
+  being sued by multiple plaintiffs, related to published articles associated with
+  the plaintiffs. A recent lawsuit in particular, by Hulk Hogan, has gained notoriety
+  due to Hogan’s
+  &lt;a href=&quot;http://www.nytimes.com/2016/05/26/business/dealbook/peter-thiel-tech-billionaire-reveals-secret-war-with-gawker.html?_r=0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;financial backing by Peter Thiel&lt;/a&gt; and Thiel’s potential motive for revenge.
+  The costs of defending the suit may put Gawker at risk of insolvency.&lt;/p&gt;
+&lt;h2 id=&quot;Anonymous-content-platform&quot;&gt;
+  &lt;a href=&quot;#Anonymous-content-platform&quot; class=&quot;headerlink&quot; title=&quot;Anonymous content platform&quot;&gt;&lt;/a&gt;Anonymous content platform&lt;/h2&gt;
+&lt;p&gt;Although there are options for whistleblowers, do similar options for anonymous submission
+  &lt;em&gt;and&lt;/em&gt; distribution don’t seem to be widely used for ‘less serious’ content?
+  For example news, rumors, anonymous memoirs, etc.?&lt;/p&gt;
+&lt;p&gt;Since these ‘less serious’ users may intend to produce content with the purpose of
+  receiving payment, could payment mechanisms be created such that these users could
+  be paid immediately and near-anonymously based on pre-existing terms (i.e. number
+  of views, clicks, etc.)?&lt;/p&gt;
+&lt;p&gt;Could a better user experience be created for the providers, which allows for management
+  of submission, distribution, and incoming payments?&lt;/p&gt;
+&lt;p&gt;Would a front-end need to exist, or could existing distribution platforms be leveraged
+  once the content had been anonymously ingested?&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Whistleblowers-and-leaked-content&quot;&gt;
+  &lt;a href=&quot;#Whistleblowers-and-leaked-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblowers and leak
+    
+    </summary>
+    
+      <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
+    
+    
+      <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
+    
+      <category term="Publishing" scheme="http://kiranakkineni.com/tags/Publishing/"/>
+    
+      <category term="Tor" scheme="http://kiranakkineni.com/tags/Tor/"/>
+    
+      <category term="Ethereum" scheme="http://kiranakkineni.com/tags/Ethereum/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+  </entry>
   
   <entry>
     <title>Weekly reads, week of May 23 2016</title>
@@ -305,6 +386,8 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Employee stock options" scheme="http://kiranakkineni.com/tags/Employee-stock-options/"/>
@@ -312,8 +395,6 @@
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
     
       <category term="ESO Insurance" scheme="http://kiranakkineni.com/tags/ESO-Insurance/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -431,9 +512,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
@@ -545,9 +626,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
@@ -658,9 +739,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
