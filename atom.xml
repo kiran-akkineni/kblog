@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-29T23:13:29.000Z</updated>
+  <updated>2016-05-30T00:31:42.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/"/>
     <id>http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/</id>
     <published>2016-05-29T21:26:41.000Z</published>
-    <updated>2016-05-29T23:13:29.000Z</updated>
+    <updated>2016-05-30T00:31:42.000Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;Whistleblowers-and-leaked-content&quot;&gt;
-  &lt;a href=&quot;#Whistleblowers-and-leaked-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblowers and leaked content&quot;&gt;&lt;/a&gt;Whistleblowers and leaked content&lt;/h2&gt;
+    <content type="html">&lt;h2 id=&quot;Whistleblower-content&quot;&gt;
+  &lt;a href=&quot;#Whistleblower-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblower content&quot;&gt;&lt;/a&gt;Whistleblower content&lt;/h2&gt;
 &lt;p&gt;Currently, whistleblowers can rely on platforms which use anonymising networks to
   allow submission of sensitive information (the leaked content cannot easily be
   traced back to the content provider). In order to use the network, the whistleblower
@@ -51,11 +51,11 @@
   due to Hogan’s
   &lt;a href=&quot;http://www.nytimes.com/2016/05/26/business/dealbook/peter-thiel-tech-billionaire-reveals-secret-war-with-gawker.html?_r=0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;financial backing by Peter Thiel&lt;/a&gt; and Thiel’s potential motive for revenge.
   The costs of defending the suit may put Gawker at risk of insolvency.&lt;/p&gt;
-&lt;h2 id=&quot;Anonymous-content-platform&quot;&gt;
-  &lt;a href=&quot;#Anonymous-content-platform&quot; class=&quot;headerlink&quot; title=&quot;Anonymous content platform&quot;&gt;&lt;/a&gt;Anonymous content platform&lt;/h2&gt;
+&lt;h2 id=&quot;Anonymous-platform&quot;&gt;
+  &lt;a href=&quot;#Anonymous-platform&quot; class=&quot;headerlink&quot; title=&quot;Anonymous platform&quot;&gt;&lt;/a&gt;Anonymous platform&lt;/h2&gt;
 &lt;p&gt;Although there are options for whistleblowers, do similar widely-used options exist
   for anonymous submission and distribution of ‘less serious’ content? For example
-  news, rumors, anonymous memoirs, etc.?&lt;/p&gt;
+  an anonymous content platform for news, rumors, anonymous memoirs, etc.?&lt;/p&gt;
 &lt;p&gt;Since these ‘less serious’ users may intend to produce content with the purpose of
   receiving payment, could payment mechanisms be created such that these users could
   be paid immediately and near-anonymously based on pre-existing terms (i.e. number
@@ -68,8 +68,8 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Whistleblowers-and-leaked-content&quot;&gt;
-  &lt;a href=&quot;#Whistleblowers-and-leaked-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblowers and leak
+      &lt;h2 id=&quot;Whistleblower-content&quot;&gt;
+  &lt;a href=&quot;#Whistleblower-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblower content&quot;&gt;&lt;/a&gt;Whistleblower conten
     
     </summary>
     
