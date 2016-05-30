@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-30T00:31:42.000Z</updated>
+  <updated>2016-05-30T05:17:53.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/"/>
     <id>http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/</id>
     <published>2016-05-29T21:26:41.000Z</published>
-    <updated>2016-05-30T00:31:42.000Z</updated>
+    <updated>2016-05-30T05:17:53.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;Whistleblower-content&quot;&gt;
   &lt;a href=&quot;#Whistleblower-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblower content&quot;&gt;&lt;/a&gt;Whistleblower content&lt;/h2&gt;
@@ -32,27 +32,17 @@
 &lt;p&gt;UX issues aside, once the information has been submitted, it needs to be distributed.
   For whistleblowers,
   &lt;a href=&quot;https://en.wikipedia.org/wiki/GlobaLeaks&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;platforms&lt;/a&gt; exist which allow for distribution of anonymously leaked content.&lt;/p&gt;
-&lt;h2 id=&quot;Technologies&quot;&gt;
-  &lt;a href=&quot;#Technologies&quot; class=&quot;headerlink&quot; title=&quot;Technologies&quot;&gt;&lt;/a&gt;Technologies&lt;/h2&gt;
+&lt;h2 id=&quot;Gawker-type-content&quot;&gt;
+  &lt;a href=&quot;#Gawker-type-content&quot; class=&quot;headerlink&quot; title=&quot;Gawker-type content&quot;&gt;&lt;/a&gt;Gawker-type content&lt;/h2&gt;
 &lt;p&gt;
-  &lt;a href=&quot;https://en.wikipedia.org/wiki/Tor_anonymity_network&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tor&lt;/a&gt; – Tor / Onion Services allows for the near-anonymous submission of content,
-  such that the content provider has limited vulnerability with regards to being
-  identified&lt;/p&gt;
-&lt;p&gt;
-  &lt;a href=&quot;https://en.wikipedia.org/wiki/Ethereum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ethereum&lt;/a&gt; – Ethereum is a
-  &lt;a href=&quot;https://en.wikipedia.org/wiki/Block_chain_database&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;blockchain&lt;/a&gt; platform that enables execution of smart contracts using ether,
-  a cryptocurrency.&lt;/p&gt;
-&lt;h2 id=&quot;Gawker&quot;&gt;
-  &lt;a href=&quot;#Gawker&quot; class=&quot;headerlink&quot; title=&quot;Gawker&quot;&gt;&lt;/a&gt;Gawker&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a href=&quot;https://en.wikipedia.org/wiki/Gawker&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gawker&lt;/a&gt; is a highly publicized and well-read gossip publication which is currently
-  being sued by multiple plaintiffs, related to published articles associated with
-  the plaintiffs. A recent lawsuit in particular, by Hulk Hogan, has gained notoriety
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Gawker&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gawker&lt;/a&gt; is a highly publicized and well-read gossip publication currently being
+  sued by multiple plaintiffs, related to published articles associated with the
+  plaintiffs. A recent lawsuit in particular, by Hulk Hogan, has gained notoriety
   due to Hogan’s
   &lt;a href=&quot;http://www.nytimes.com/2016/05/26/business/dealbook/peter-thiel-tech-billionaire-reveals-secret-war-with-gawker.html?_r=0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;financial backing by Peter Thiel&lt;/a&gt; and Thiel’s potential motive for revenge.
   The costs of defending the suit may put Gawker at risk of insolvency.&lt;/p&gt;
 &lt;h2 id=&quot;Anonymous-platform&quot;&gt;
-  &lt;a href=&quot;#Anonymous-platform&quot; class=&quot;headerlink&quot; title=&quot;Anonymous platform&quot;&gt;&lt;/a&gt;Anonymous platform&lt;/h2&gt;
+  &lt;a href=&quot;#Anonymous-platform&quot; class=&quot;headerlink&quot; title=&quot;Anonymous platform?&quot;&gt;&lt;/a&gt;Anonymous platform?&lt;/h2&gt;
 &lt;p&gt;Although there are options for whistleblowers, do similar widely-used options exist
   for anonymous submission and distribution of ‘less serious’ content? For example
   an anonymous content platform for news, rumors, anonymous memoirs, etc.?&lt;/p&gt;
@@ -64,6 +54,16 @@
   of submission, distribution, and incoming payments?&lt;/p&gt;
 &lt;p&gt;Would a front-end need to exist, or could existing distribution platforms be leveraged
   once the content had been anonymously ingested?&lt;/p&gt;
+&lt;h2 id=&quot;Technologies&quot;&gt;
+  &lt;a href=&quot;#Technologies&quot; class=&quot;headerlink&quot; title=&quot;Technologies&quot;&gt;&lt;/a&gt;Technologies&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Tor_anonymity_network&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tor&lt;/a&gt; – Tor / Onion Services allows for the near-anonymous submission of content,
+  such that the content provider has limited vulnerability with regards to being
+  identified&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Ethereum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ethereum&lt;/a&gt; – Ethereum is a
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Block_chain_database&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;blockchain&lt;/a&gt; platform that enables execution of smart contracts using ether,
+  a cryptocurrency.&lt;/p&gt;
 </content>
     
     <summary type="html">
@@ -175,9 +175,9 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
       <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
@@ -254,9 +254,9 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
       <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
@@ -508,15 +508,15 @@
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -622,15 +622,15 @@
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -735,15 +735,15 @@
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
