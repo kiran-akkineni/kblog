@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-05-30T05:17:53.000Z</updated>
+  <updated>2016-06-18T15:51:13.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -14,6 +14,95 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Weekly reads, week of May 23 2016</title>
+    <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jun13/2016/06/18/"/>
+    <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jun13/2016/06/18/</id>
+    <published>2016-06-18T14:10:59.000Z</published>
+    <updated>2016-06-18T15:51:13.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Product-management&quot;&gt;
+  &lt;a href=&quot;#Product-management&quot; class=&quot;headerlink&quot; title=&quot;Product management&quot;&gt;&lt;/a&gt;Product management&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://blog.intercom.io/first-rule-prioritization-no-snacking/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;THE FIRST RULE OF PRIORITIZATION: NO SNACKING&lt;/a&gt; by Des Traynor
+  &lt;br&gt;// The ability to find and prioritize low-effort-high-impact work diminishes as
+  organizations mature. Many organizations tend to shift into prioritizing low-effort-low-impact
+  work as a result, which rarely creates long-term value. Focus on high-effort-high-impact
+  work, since this is where the value lies.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://bgr.com/2016/05/25/amazon-echo-vs-siri-voice-recognition/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Why Amazon’s Echo is better to talk to than Siri&lt;/a&gt; by Chris Smith
+  &lt;br&gt;// The Echo team is completely focused on building a great voice-only in-home assistant,
+  allowing them not to have to worry about or prioritize mobility, UI, or a slew
+  of other things that the Apple / Siri team has to consider. As a result, they’ve
+  produced a great always-on, high responsive product with a great user experience.&lt;/p&gt;
+&lt;h1 id=&quot;Data-and-Tech&quot;&gt;
+  &lt;a href=&quot;#Data-and-Tech&quot; class=&quot;headerlink&quot; title=&quot;Data and Tech&quot;&gt;&lt;/a&gt;Data and Tech&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://stratechery.com/2016/googles-go-to-market-gap/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;How bot-to-bot could soon replace APIs&lt;/a&gt; by Niko Nelissen
+  &lt;br&gt;// Interesting hypothesis that bots (bot-to-bot and bot-to-bot-to-consumer), could
+  be the next evolution from APIs. This would be heavily dependent on the advancement
+  of technologies that this evolution would rely on of course (NLP, ML, AI, etc.)&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://marketingland.com/facebooks-deeptext-near-human-understanding-people-posts-179458&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Facebook’s DeepText has “near-human” understanding of people’s posts&lt;/a&gt; by Tim
+  Peterson
+  &lt;br&gt;// Accelerating the evolution of NLP by eschewing traditional methods in favor
+  of a character-based method, which uses massive swaths of available data to learn
+  from observed relationships between characters, context, and sentiment. &lt;/p&gt;
+&lt;h1 id=&quot;Business-and-Strategy&quot;&gt;
+  &lt;a href=&quot;#Business-and-Strategy&quot; class=&quot;headerlink&quot; title=&quot;Business and Strategy&quot;&gt;&lt;/a&gt;Business and Strategy&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The inside story of Facebook’s biggest setback&lt;/a&gt; by Rahul Bhatia
+  &lt;br&gt;// Many things went wrong here. One big lesson is to spend effort learning about
+  your customers and their problems rather than imposing your solution on your perception
+  of their problems.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://fortune.com/2016/05/24/spotify-financials/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Spotify’s Financial Results Reinforce Just How Broken the Music Business Is&lt;/a&gt;
+  by Mathew Ingram
+  &lt;br&gt;// Despite rampant growth and engagement, Spotify’s costs-to-serve may be too high
+  for the company to reach profitability into the future. ‘Of every dollar that Spotify
+  brings in the door in revenues, about 85 cents goes right back out the door again
+  in the form of payments to the music industry.’&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://stratechery.com/2016/the-curse-of-culture/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Curse of Culture&lt;/a&gt; by Ben Thompson
+  &lt;br&gt;// Couple notable quotes:
+  &lt;br&gt;‘As with most such things, culture is one of a company’s most powerful assets right
+  until it isn’t: the same underlying assumptions that permit an organization to
+  scale massively constrain the ability of that same organization to change direction.
+  More distressingly, culture prevents organizations from even knowing they need
+  to do so.’ ‘Leadership is now the ability to step outside the culture that created
+  the leader and to start evolutionary change processes that are more adaptive. This
+  ability to perceive the limitations of one’s own culture and to evolve the culture
+  adaptively is the essence and ultimate challenge of leadership.’&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Product-management&quot;&gt;
+  &lt;a href=&quot;#Product-management&quot; class=&quot;headerlink&quot; title=&quot;Product management&quot;&gt;&lt;/a&gt;Product management&lt;/h1&gt;
+&lt;p&gt;
+ 
+    
+    </summary>
+    
+      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
+    
+      <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
+    
+      <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+  </entry>
   
   <entry>
     <title>Anonymous content platform</title>
@@ -175,13 +264,13 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -254,13 +343,13 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -514,9 +603,9 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -628,9 +717,9 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -741,9 +830,9 @@
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
