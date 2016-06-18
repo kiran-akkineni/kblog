@@ -88,13 +88,13 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
@@ -165,8 +165,6 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
@@ -176,6 +174,8 @@
       <category term="Tor" scheme="http://kiranakkineni.com/tags/Tor/"/>
     
       <category term="Ethereum" scheme="http://kiranakkineni.com/tags/Ethereum/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -258,13 +258,13 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
@@ -337,13 +337,13 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
@@ -404,9 +404,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
@@ -467,11 +467,11 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+      <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
-      <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Employee stock options" scheme="http://kiranakkineni.com/tags/Employee-stock-options/"/>
     
@@ -595,19 +595,19 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
-    
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -616,7 +616,7 @@
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/18/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan18/2016/01/18/</id>
     <published>2016-01-19T05:25:33.000Z</published>
-    <updated>2016-05-27T04:56:25.000Z</updated>
+    <updated>2016-06-18T16:14:32.000Z</updated>
     
     <content type="html">&lt;p&gt;
   &lt;a href=&quot;https://stratechery.com/2016/the-fang-playbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The FANG Playbook&lt;/a&gt; by Ben Thompson&lt;/p&gt;
@@ -651,7 +651,7 @@
     updates vs. Adobe Flash updates, etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
-  &lt;a href=&quot;http://www.digitaltonto.com/2016/the-power-of-focus/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Power Of Focus&lt;/a&gt; by Greg&lt;/p&gt;
+  &lt;a href=&quot;http://www.digitaltonto.com/2016/the-power-of-focus/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Power Of Focus&lt;/a&gt; by Greg Satell&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;IBM’s modern-day roots began as a function of refocusing. This cultural trait served
     IBM well when facing more innovative competition, by relying on superior execution.
@@ -709,19 +709,19 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
-    
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -822,19 +822,19 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
-    
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
