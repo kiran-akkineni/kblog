@@ -1,19 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>janmabandha</title>
-  
+  <subtitle>by Kiran Akkineni</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-06-18T15:53:13.000Z</updated>
+  <updated>2016-06-19T21:10:21.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
-    <name>Kiran Akkineni</name>
+    <name>janmabandha</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Beats, Rhymes, and Life</title>
+    <link href="http://kiranakkineni.com/beats-rhymes-and-life-MJ/2016/06/19/"/>
+    <id>http://kiranakkineni.com/beats-rhymes-and-life-MJ/2016/06/19/</id>
+    <published>2016-06-19T19:01:00.000Z</published>
+    <updated>2016-06-19T21:10:21.000Z</updated>
+    
+    <content type="html">&lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
+&lt;p&gt;Ego is a mofo…&lt;/p&gt;
+&lt;h1 id=&quot;‘What-Really-Goes-On’&quot;&gt;
+  &lt;a href=&quot;#‘What-Really-Goes-On’&quot; class=&quot;headerlink&quot; title=&quot;‘What Really Goes On’&quot;&gt;&lt;/a&gt;‘What Really Goes On’&lt;/h1&gt;
+&lt;p&gt;One of my favorite Phife Dog rhymes is “Ego/I’m on my own jock skill/Cuz if I don’t
+  say I’m the best/Tell me who the hell will”. &lt;/p&gt;
+&lt;p&gt;Founding teams are filled with egos. You probably already know that. Because you’re
+  fucking awesome and know everything about everything. We all do. Ego is why an
+  entrepreneur thinks their idea is a winner. Ego is why an entrepreneur runs through
+  walls when others give up. Ego is why an entrepreneur risks it for the biscuit.
+  &lt;/p&gt;
+&lt;p&gt;(You already know where I’m going with this)&lt;/p&gt;
+&lt;p&gt;Ego is also a huge source of conflict. Building anything requires communication and
+  compromise. Ego prevents both.&lt;/p&gt;
+&lt;p&gt;If I’m right and you say the same thing as me, but you get the credit, what’s my
+  reaction? Ego says “f- that guy!”. Ego strength, on the other hand, says “I’m happy
+  someone I respect agrees. I must be on the right path.”&lt;/p&gt;
+&lt;p&gt;If I have an idea of how to reach a goal, and you have a different idea of how to
+  reach a goal, what’s my reaction? Ego says “f- that guy!”. Ego strength says “I
+  respect your process, and since you’re leading the effort, I trust you.”&lt;/p&gt;
+&lt;h1 id=&quot;‘Keep-It-Movin’&quot;&gt;
+  &lt;a href=&quot;#‘Keep-It-Movin’&quot; class=&quot;headerlink&quot; title=&quot;‘Keep It Movin’&quot;&gt;&lt;/a&gt;‘Keep It Movin’&lt;/h1&gt;
+&lt;p&gt;Our product leads are hyper talented. They know the subject matter, they know the
+  technology, and they have a clear vision of where we need to be. I trust them explicitly
+  to get us where we need to be. That’s why they own product.&lt;/p&gt;
+&lt;p&gt;Last week, ego and ego strength collided. During a discussion about our product with
+  the product team, I wasn’t happy with the speed with which we were progressing.
+  As a CSPO and terrible amateur product manager, I had envisioned a very specific
+  process. This was not the process the product team was using in this specific conversation,
+  and I didn’t think that was right. &lt;/p&gt;
+&lt;p&gt;Ego reared its infinitely ugly head, and I lashed out. I wanted them to follow my
+  process, the scrum product owner process, moving forward. “We will not build our
+  product on a shitty foundation. How the hell are we going to attract the engineering
+  talent we need without properly written epics? It’s critical that we use my process,
+  the approved process, the common process, the correct process from the beginning.”&lt;/p&gt;
+&lt;p&gt;Instead of reacting to my idiocy, one of our product leads stopped my rant and explained
+  what he was actually doing. He walked me through his approach, and assured me that
+  the deliverables would be what I expected. By simply acknowledging my concerns
+  and explaining his approach, he mitigated my anxiety and reinforced his competency.
+  &lt;/p&gt;
+&lt;p&gt;Ego strength won. &lt;/p&gt;
+&lt;p&gt;Matt&lt;/p&gt;
+&lt;p&gt;Post-script:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;I swear no more Tribe references (for now).&lt;/li&gt;
+  &lt;li&gt;Company and product will be revealed soon. Patience is a virtue.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
+&lt;p&gt;Ego is a mofo…
+    
+    </summary>
+    
+      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
+    
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
+    
+      <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
+    
+  </entry>
   
   <entry>
     <title>Weekly reads, week of June 13 2016</title>
@@ -105,11 +185,88 @@
   </entry>
   
   <entry>
+    <title>Hard to Earn</title>
+    <link href="http://kiranakkineni.com/hard-to-earn-MJ/2016/06/12/"/>
+    <id>http://kiranakkineni.com/hard-to-earn-MJ/2016/06/12/</id>
+    <published>2016-06-12T19:00:00.000Z</published>
+    <updated>2016-06-19T21:19:25.000Z</updated>
+    
+    <content type="html">&lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
+&lt;p&gt;SO, I’m founding a start-up. Well, technically I’m founding a start-up with a team
+  of talented contributors. We’re going to conquer the world by using [technology]
+  to deliver [adjective] outcomes for [customer segment] in [industry]. It’s going
+  to be amazing!&lt;/p&gt;
+&lt;h1 id=&quot;‘Intro-The-First-Step-’&quot;&gt;
+  &lt;a href=&quot;#‘Intro-The-First-Step-’&quot; class=&quot;headerlink&quot; title=&quot;‘Intro (The First Step)’&quot;&gt;&lt;/a&gt;‘Intro (The First Step)’&lt;/h1&gt;
+&lt;p&gt;You know what’s awesome about start-ups? Everyone genuinely wants to get involved
+  with your company in some way, and everyone has an opinion on how to build it.
+  “Focus on these customers.” “Don’t forget to do X,Y,Z.” “Beware of these pitfalls.”
+  Etc. etc. etc.&lt;/p&gt;
+&lt;p&gt;Here’s the thing, though: All of that guidance and opinions and parables and bullshit
+  out there starts once you’ve actually founded the company. You can find resources
+  on product development, finding customers, raising money, blah, blah, blah. Very
+  few people talk about how to get to the starting line. The “holy shit, we’re going
+  to start a real company with real responsibilities!” starting line.&lt;/p&gt;
+&lt;p&gt;Where are the mentors who want to help you incorporate? Who want to help you pick
+  your founders? Who want to help you build your board, without requiring a seat?
+  Who love employer ID numbers, and taxes, and choosing the correct fucking insurance?
+  No one eagerly steps up to help with the hard, boring, unsexy, soul-crushing, yet
+  absolutely critical, decisions required to get started. Unless they want a piece
+  of the company.&lt;/p&gt;
+&lt;p&gt;How many companies fail at this stage? Is this the plight of the COO? What challenges
+  are next? Does any of it really matter?&lt;/p&gt;
+&lt;h1 id=&quot;‘ALONGWAYTOGO’&quot;&gt;
+  &lt;a href=&quot;#‘ALONGWAYTOGO’&quot; class=&quot;headerlink&quot; title=&quot;‘ALONGWAYTOGO’&quot;&gt;&lt;/a&gt;‘ALONGWAYTOGO’&lt;/h1&gt;
+&lt;p&gt;Bitching aside, our technology can win (I’ve been told start-up rule #2 is ‘Always
+  believe’). I really, truly, believe that (see previous sentence). Can our team
+  win? Let’s find out…&lt;/p&gt;
+&lt;p&gt;Matt&lt;/p&gt;
+&lt;p&gt;Post-script:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;I hope to post with some regular cadence, but no guarantees. Sorry.&lt;/li&gt;
+  &lt;li&gt;I know how to use Google. Please do not send me anything from the first 2 pages
+    of search results to ‘help out’. I respect your effort, so save those links for
+    a more appropriate time when I’m ready to digest your guidance fully. I promise
+    you’ll have that opportunity.&lt;/li&gt;
+  &lt;li&gt;I’ll reveal our product soon.&lt;/li&gt;
+  &lt;li&gt;I know founders and start-up blogs are played out like your mom’s haircut. Or two-tone
+    down goose. Also, you couldn’t converse if you had fucking React Juice (R.I.P.
+    Diggy, s/o Grandmama).&lt;/li&gt;
+  &lt;li&gt;I know I can be a know-it-all. It’s on my self-improvement list.&lt;/li&gt;
+  &lt;li&gt;Yes, those are rap-nerd easter eggs.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
+&lt;p&gt;SO, I’m foundi
+    
+    </summary>
+    
+      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
+    
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
+    
+      <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Anonymous content platform</title>
     <link href="http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/"/>
     <id>http://kiranakkineni.com/Anonymous-content-platform/2016/05/29/</id>
     <published>2016-05-29T21:26:41.000Z</published>
-    <updated>2016-05-30T05:17:53.000Z</updated>
+    <updated>2016-06-19T21:13:37.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;Whistleblower-content&quot;&gt;
   &lt;a href=&quot;#Whistleblower-content&quot; class=&quot;headerlink&quot; title=&quot;Whistleblower content&quot;&gt;&lt;/a&gt;Whistleblower content&lt;/h2&gt;
@@ -730,7 +887,7 @@
     <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan11/2016/01/11/"/>
     <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jan11/2016/01/11/</id>
     <published>2016-01-12T05:25:33.000Z</published>
-    <updated>2016-05-27T04:56:39.000Z</updated>
+    <updated>2016-06-19T21:10:45.000Z</updated>
     
     <content type="html">&lt;p&gt;
   &lt;a href=&quot;http://firstround.com/review/the-story-behind-how-pocket-hit-20m-users-with-20-people/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Story Behind How Pocket Hit 20M Users with 20 People&lt;/a&gt; via First Round&lt;/p&gt;
