@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-06-19T21:10:21.000Z</updated>
+  <updated>2016-06-25T15:41:57.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,10 +20,12 @@
     <link href="http://kiranakkineni.com/beats-rhymes-and-life-MJ/2016/06/19/"/>
     <id>http://kiranakkineni.com/beats-rhymes-and-life-MJ/2016/06/19/</id>
     <published>2016-06-19T19:01:00.000Z</published>
-    <updated>2016-06-19T21:10:21.000Z</updated>
+    <updated>2016-06-25T15:41:57.000Z</updated>
     
     <content type="html">&lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
-  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by
+  &lt;a href=&quot;https://www.linkedin.com/in/matt-johnson-9b97564&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Matt Johnson&lt;/a&gt;
+&lt;/h4&gt;
 &lt;p&gt;Ego is a mofo…&lt;/p&gt;
 &lt;h1 id=&quot;‘What-Really-Goes-On’&quot;&gt;
   &lt;a href=&quot;#‘What-Really-Goes-On’&quot; class=&quot;headerlink&quot; title=&quot;‘What Really Goes On’&quot;&gt;&lt;/a&gt;‘What Really Goes On’&lt;/h1&gt;
@@ -75,8 +77,8 @@
     <summary type="html">
     
       &lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
-  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
-&lt;p&gt;Ego is a mofo…
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by
+  &lt;a href=&quot;https://www.linkedin.com
     
     </summary>
     
@@ -189,10 +191,12 @@
     <link href="http://kiranakkineni.com/hard-to-earn-MJ/2016/06/12/"/>
     <id>http://kiranakkineni.com/hard-to-earn-MJ/2016/06/12/</id>
     <published>2016-06-12T19:00:00.000Z</published>
-    <updated>2016-06-19T21:19:25.000Z</updated>
+    <updated>2016-06-25T15:41:39.000Z</updated>
     
     <content type="html">&lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
-  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by
+  &lt;a href=&quot;https://www.linkedin.com/in/matt-johnson-9b97564&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Matt Johnson&lt;/a&gt;
+&lt;/h4&gt;
 &lt;p&gt;SO, I’m founding a start-up. Well, technically I’m founding a start-up with a team
   of talented contributors. We’re going to conquer the world by using [technology]
   to deliver [adjective] outcomes for [customer segment] in [industry]. It’s going
@@ -241,8 +245,8 @@
     <summary type="html">
     
       &lt;h4 id=&quot;by-Matt-Johnson&quot;&gt;
-  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by Matt Johnson&lt;/h4&gt;
-&lt;p&gt;SO, I’m foundi
+  &lt;a href=&quot;#by-Matt-Johnson&quot; class=&quot;headerlink&quot; title=&quot;by Matt Johnson&quot;&gt;&lt;/a&gt;by
+  &lt;a href=&quot;https://www.linkedin.com
     
     </summary>
     
@@ -324,6 +328,8 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
     
       <category term="Anonymous publishing" scheme="http://kiranakkineni.com/tags/Anonymous-publishing/"/>
@@ -331,8 +337,6 @@
       <category term="Tor" scheme="http://kiranakkineni.com/tags/Tor/"/>
     
       <category term="Ethereum" scheme="http://kiranakkineni.com/tags/Ethereum/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -626,8 +630,6 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Employee stock options" scheme="http://kiranakkineni.com/tags/Employee-stock-options/"/>
@@ -635,6 +637,8 @@
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
     
       <category term="ESO Insurance" scheme="http://kiranakkineni.com/tags/ESO-Insurance/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -752,9 +756,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
@@ -866,9 +870,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
@@ -979,9 +983,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
