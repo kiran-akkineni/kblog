@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-23T23:08:26.000Z</updated>
+  <updated>2016-07-23T23:38:23.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -14,6 +14,74 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Customer Acquisition Cost (CAC)</title>
+    <link href="http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/"/>
+    <id>http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/</id>
+    <published>2016-07-23T23:16:01.000Z</published>
+    <updated>2016-07-23T23:38:23.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;CAC-defined&quot;&gt;
+  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
+&lt;p&gt;CAC represents how many marketing dollars it costs to get customers to buy your product
+  for the first time. The basic CAC calculation is [Total Marketing Spend]/[Total
+  New Customers].&lt;/p&gt;
+&lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
+  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
+&lt;p&gt;The lower your CAC is relative to the total amount a customer spends with you over
+  their lifetime (LTV), the better. It means you can potentially increase marketing
+  spend in order to grow and scale your business. If your CAC is relatively high,
+  it likely means you need more optimization around your marketing or that your business
+  needs to depend more heavily on organic marketing (word of mouth, social, SEO)&lt;/p&gt;
+&lt;h1 id=&quot;Diving-deeper&quot;&gt;
+  &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
+&lt;p&gt;Given that CAC is a cost, it’s especially important to understand it in more detail.
+  It’s easy to waste marketing dollars, especially in digital marketing, where more
+  spend almost always seems to mean more customers.
+  &lt;br&gt;Some additional analysis worth knowing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CAC by marketing channel&lt;/li&gt;
+  &lt;li&gt;Components comprising CAC (cost of traffic, conversion rate, new customer %)&lt;/li&gt;
+  &lt;li&gt;CAC of the marginal or incremental customer if you increase marketing spend&lt;/li&gt;
+  &lt;li&gt;Impact of the sales cycle on CAC (it can go down over time with long sales cycles)&lt;/li&gt;
+  &lt;li&gt;% of marketing spend that is driving repeat customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Conclusion&quot;&gt;
+  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;For any company that expands through paid marketing channels, it’s imperative to
+  understand CAC and how it evolves as those channels mature over the business’ lifecycle.&lt;/p&gt;
+&lt;p&gt;If you are planning on raising capital for your business, make sure to know it across
+  all meaningful dimensions. Most investors will assume some portion of the raised
+  funds (especially mid-to-late stages) will be dedicated to marketing. They’ll want
+  to know the funds will be deployed prudently, and knowing CAC is a basic requirement
+  for that.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;CAC-defined&quot;&gt;
+  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
+&lt;p&gt;CAC represents how many market
+    
+    </summary>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
+    
+      <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
+    
+      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+      <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
+    
+  </entry>
   
   <entry>
     <title>Average Order Value (AOV)</title>
@@ -259,11 +327,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -350,11 +418,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -427,11 +495,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -599,11 +667,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -678,11 +746,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
