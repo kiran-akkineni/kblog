@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-23T22:23:45.000Z</updated>
+  <updated>2016-07-23T22:37:41.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -16,18 +16,57 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Average-order-value</title>
+    <link href="http://kiranakkineni.com/average-order-value/2016/07/23/"/>
+    <id>http://kiranakkineni.com/average-order-value/2016/07/23/</id>
+    <published>2016-07-23T22:37:41.000Z</published>
+    <updated>2016-07-23T22:37:41.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Average-Order-Value-AOV-defined&quot;&gt;
+  &lt;a href=&quot;#Average-Order-Value-AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;Average Order Value (AOV) defined&quot;&gt;&lt;/a&gt;Average Order Value (AOV) defined&lt;/h2&gt;
+&lt;p&gt;AOV is intended to represent the dollar amount of your average customer’s payment.
+  At its simplest, AOV is represented as &lt;/p&gt;
+&lt;h3 id=&quot;AOV-Total-Sales-Total-Orders&quot;&gt;
+  &lt;a href=&quot;#AOV-Total-Sales-Total-Orders&quot; class=&quot;headerlink&quot; title=&quot;AOV = [Total Sales] / [Total Orders]&quot;&gt;&lt;/a&gt;AOV = [Total Sales] / [Total Orders]&lt;/h3&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Average-Order-Value-AOV-defined&quot;&gt;
+  &lt;a href=&quot;#Average-Order-Value-AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;Average Order Value (AOV) d
+    
+    </summary>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
+    
+      <category term="Marketing Metrics" scheme="http://kiranakkineni.com/tags/Marketing-Metrics/"/>
+    
+      <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
+    
+      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Outsource startup stock option plans</title>
     <link href="http://kiranakkineni.com/Outsource-startup-stock-option-plans/2016/07/23/"/>
     <id>http://kiranakkineni.com/Outsource-startup-stock-option-plans/2016/07/23/</id>
     <published>2016-07-23T22:22:37.000Z</published>
-    <updated>2016-07-23T22:23:45.000Z</updated>
+    <updated>2016-07-23T22:38:04.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;Productivity-vs-dilution&quot;&gt;
   &lt;a href=&quot;#Productivity-vs-dilution&quot; class=&quot;headerlink&quot; title=&quot;Productivity vs. dilution&quot;&gt;&lt;/a&gt;Productivity vs. dilution&lt;/h2&gt;
-&lt;p&gt;Startup stock options can make sense for employees given the appropriate risk / reward
-  tradeoff, but the choice is much less simple when accounting for structural elements
-  in the fine print. For example, employees typically have 90 or less days to exercise
-  vested shares if they leave the company. This can represent a huge cost for most
+&lt;p&gt;In theory, startup options can make sense for employees given the risk / reward tradeoffs,
+  but the choice is much less simple when accounting for structural elements in option
+  grant fine print. For example, employees typically have 90 or less days to exercise
+  vested shares when they leave the company. This can represent a huge cost for most
   employees in exchange for no immediate cash gain (unless the startup happens to
   be in the process of completing a liquidity event). &lt;/p&gt;
 &lt;p&gt;Some companies have begun to opt into providing significantly longer post-termination
@@ -181,11 +220,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -272,11 +311,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -349,11 +388,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -521,11 +560,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -600,11 +639,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
