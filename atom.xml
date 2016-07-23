@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-23T16:27:02.000Z</updated>
+  <updated>2016-07-23T16:34:25.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://kiranakkineni.com/Outsourced-management-of-startup-stock-option-plans/2016/07/23/"/>
     <id>http://kiranakkineni.com/Outsourced-management-of-startup-stock-option-plans/2016/07/23/</id>
     <published>2016-07-23T16:27:02.000Z</published>
-    <updated>2016-07-23T16:27:02.000Z</updated>
+    <updated>2016-07-23T16:34:25.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;Adverse-selection-vs-dead-equity&quot;&gt;
   &lt;a href=&quot;#Adverse-selection-vs-dead-equity&quot; class=&quot;headerlink&quot; title=&quot;Adverse selection vs. dead equity&quot;&gt;&lt;/a&gt;Adverse selection vs. dead equity&lt;/h2&gt;
@@ -67,7 +67,7 @@
   &lt;li&gt;Share of equity pool allocated to ESOP&lt;/li&gt;
   &lt;li&gt;General comp bands by position&lt;/li&gt;
   &lt;li&gt;Value of current common shares&lt;/li&gt;
-  &lt;li&gt;Expected cash risks for the business (is it monetizing, growth rates, etc.)&lt;/li&gt;
+  &lt;li&gt;Known cash risks for the business&lt;/li&gt;
   &lt;li&gt;Liquidity event likelihood&lt;/li&gt;
   &lt;li&gt;Employee base and hiring rate&lt;/li&gt;
 &lt;/ul&gt;
@@ -97,6 +97,8 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Employee stock options" scheme="http://kiranakkineni.com/tags/Employee-stock-options/"/>
@@ -104,8 +106,6 @@
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
     
       <category term="Management plan" scheme="http://kiranakkineni.com/tags/Management-plan/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -422,8 +422,6 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
     
       <category term="Anonymous publishing" scheme="http://kiranakkineni.com/tags/Anonymous-publishing/"/>
@@ -431,6 +429,8 @@
       <category term="Tor" scheme="http://kiranakkineni.com/tags/Tor/"/>
     
       <category term="Ethereum" scheme="http://kiranakkineni.com/tags/Ethereum/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -723,13 +723,13 @@
     
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Employee stock options" scheme="http://kiranakkineni.com/tags/Employee-stock-options/"/>
     
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Stock option insurance" scheme="http://kiranakkineni.com/tags/Stock-option-insurance/"/>
     
@@ -849,9 +849,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
@@ -963,9 +963,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
@@ -1076,9 +1076,9 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
