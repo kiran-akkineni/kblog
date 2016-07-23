@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-23T23:39:36.000Z</updated>
+  <updated>2016-07-23T23:53:47.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/"/>
     <id>http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/</id>
     <published>2016-07-23T23:16:01.000Z</published>
-    <updated>2016-07-23T23:39:36.000Z</updated>
+    <updated>2016-07-23T23:53:47.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;CAC-defined&quot;&gt;
   &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
-&lt;p&gt;CAC represents how many marketing dollars it costs to get customers to buy your product
-  for the first time. The basic CAC calculation is [Total Marketing Spend]/[Total
-  New Customers].&lt;/p&gt;
+&lt;p&gt;Customer acquisition cost represents how many marketing dollars it costs to get customers
+  to buy your product for the first time. The basic CAC calculation is [Total Marketing
+  Spend]/[Total New Customers].&lt;/p&gt;
 &lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
   &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
 &lt;p&gt;The lower your CAC is relative to the total amount a customer spends with you over
@@ -62,7 +62,7 @@
     
       &lt;h1 id=&quot;CAC-defined&quot;&gt;
   &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
-&lt;p&gt;CAC represents how many market
+&lt;p&gt;Customer acquisition cost repr
     
     </summary>
     
@@ -88,14 +88,14 @@
     <link href="http://kiranakkineni.com/average-order-value/2016/07/23/"/>
     <id>http://kiranakkineni.com/average-order-value/2016/07/23/</id>
     <published>2016-07-23T22:37:41.000Z</published>
-    <updated>2016-07-23T23:08:26.000Z</updated>
+    <updated>2016-07-23T23:53:40.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;AOV-defined&quot;&gt;
   &lt;a href=&quot;#AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;AOV defined&quot;&gt;&lt;/a&gt;AOV defined&lt;/h1&gt;
-&lt;p&gt;AOV is intended to represent the dollar amount of your average customer’s payment.
-  At its simplest, AOV is represented as [Total Sales] / [Total Orders]. So if you
-  made $1000 in total sales in a month on 100 orders, your AOV would be $10 for that
-  month.&lt;/p&gt;
+&lt;p&gt;Average order value is intended to represent the dollar amount of your average customer’s
+  payment. At its simplest, AOV is represented as [Total Sales] / [Total Orders].
+  So if you made $1000 in total sales in a month on 100 orders, your AOV would be
+  $10 for that month.&lt;/p&gt;
 &lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
   &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
 &lt;p&gt;AOV can be useful for a variety of reasons, a few of which are:&lt;/p&gt;
@@ -140,7 +140,7 @@
     
       &lt;h1 id=&quot;AOV-defined&quot;&gt;
   &lt;a href=&quot;#AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;AOV defined&quot;&gt;&lt;/a&gt;AOV defined&lt;/h1&gt;
-&lt;p&gt;AOV is intended to represent t
+&lt;p&gt;Average order value is intende
     
     </summary>
     
@@ -327,11 +327,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -418,11 +418,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -495,11 +495,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -667,11 +667,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -746,11 +746,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
-    
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
