@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-23T22:48:28.000Z</updated>
+  <updated>2016-07-23T22:50:58.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -16,26 +16,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Average-order-value</title>
+    <title>Average Order Value (AOV)</title>
     <link href="http://kiranakkineni.com/average-order-value/2016/07/23/"/>
     <id>http://kiranakkineni.com/average-order-value/2016/07/23/</id>
     <published>2016-07-23T22:37:41.000Z</published>
-    <updated>2016-07-23T22:48:28.000Z</updated>
+    <updated>2016-07-23T22:50:58.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;Average-Order-Value-AOV-defined&quot;&gt;
-  &lt;a href=&quot;#Average-Order-Value-AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;Average Order Value (AOV) defined&quot;&gt;&lt;/a&gt;Average Order Value (AOV) defined&lt;/h1&gt;
+    <content type="html">&lt;h3 id=&quot;AOV-defined&quot;&gt;
+  &lt;a href=&quot;#AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;AOV defined&quot;&gt;&lt;/a&gt;AOV defined&lt;/h3&gt;
 &lt;p&gt;AOV is intended to represent the dollar amount of your average customer’s payment.
   At its simplest, AOV is represented as [Total Sales] / [Total Orders]. So if you
   made $1000 in total sales in a month on 100 orders, your AOV would be $10 for that
   month. &lt;/p&gt;
-&lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
-  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
-&lt;p&gt;AOV can be useful for a variety of reasons:&lt;/p&gt;
+&lt;h3 id=&quot;Why-is-it-useful&quot;&gt;
+  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h3&gt;
+&lt;p&gt;AOV can be useful for a variety of reasons, a few of which are:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Understanding what your typical customer expects to spend with your business&lt;/li&gt;
-  &lt;li&gt;Insight into whether your pricing is appropriates&lt;/li&gt;
-  &lt;li&gt;Understand how customers from different channels differ in their spending habits&lt;/li&gt;
-  &lt;li&gt;Calculate the profit you make per order, which in turn informs
+  &lt;li&gt;Understanding what your typical customer expects to spend with your business, which
+    informs:
+    &lt;ul&gt;
+      &lt;li&gt;Insight into whether your pricing is appropriates&lt;/li&gt;
+      &lt;li&gt;Understand how customers from different channels differ in their spending habits&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the profit you make per order, which in turn informs:
     &lt;ul&gt;
       &lt;li&gt;How much you should be willing to pay to acquire an order through marketing&lt;/li&gt;
       &lt;li&gt;How much you can offer in discounts without being unprofitable&lt;/li&gt;
@@ -46,8 +50,9 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Average-Order-Value-AOV-defined&quot;&gt;
-  &lt;a href=&quot;#Average-Order-Value-AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;Average Order Value (AOV) d
+      &lt;h3 id=&quot;AOV-defined&quot;&gt;
+  &lt;a href=&quot;#AOV-defined&quot; class=&quot;headerlink&quot; title=&quot;AOV defined&quot;&gt;&lt;/a&gt;AOV defined&lt;/h3&gt;
+&lt;p&gt;AOV is intended to represent t
     
     </summary>
     
