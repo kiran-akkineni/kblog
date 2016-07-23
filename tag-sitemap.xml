@@ -16,34 +16,6 @@
     </url>
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Employee-stock-options/</loc>
-        <lastmod>2016-05-28T15:52:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/ESO/</loc>
-        <lastmod>2016-05-28T15:52:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/ESO-Insurance/</loc>
-        <lastmod>2016-05-28T15:52:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/Startups/</loc>
-        <lastmod>2016-06-19T21:10:45.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://kiranakkineni.com/tags/Weekly-reads/</loc>
         <lastmod>2016-06-19T21:10:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,13 +39,6 @@
     <url>
         <loc>http://kiranakkineni.com/tags/Strategy/</loc>
         <lastmod>2016-06-19T21:10:45.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/Startup-ideas/</loc>
-        <lastmod>2016-06-19T21:13:37.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -107,14 +72,14 @@
     </url>
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Kiran-Akkineni/</loc>
-        <lastmod>2016-06-19T21:13:37.000Z</lastmod>
+        <loc>http://kiranakkineni.com/tags/Product-management/</loc>
+        <lastmod>2016-06-25T16:18:35.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Product-management/</loc>
+        <loc>http://kiranakkineni.com/tags/Strategy-and-business/</loc>
         <lastmod>2016-06-25T16:18:35.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -135,15 +100,57 @@
     </url>
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Strategy-and-business/</loc>
+        <loc>http://kiranakkineni.com/tags/Matt-Johnson/</loc>
         <lastmod>2016-06-25T16:18:35.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Matt-Johnson/</loc>
-        <lastmod>2016-06-25T16:18:35.000Z</lastmod>
+        <loc>http://kiranakkineni.com/tags/Management-plan/</loc>
+        <lastmod>2016-07-23T16:27:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Startup-ideas/</loc>
+        <lastmod>2016-07-23T16:33:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Startups/</loc>
+        <lastmod>2016-07-23T16:33:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Employee-stock-options/</loc>
+        <lastmod>2016-07-23T16:33:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/ESO/</loc>
+        <lastmod>2016-07-23T16:33:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Kiran-Akkineni/</loc>
+        <lastmod>2016-07-23T16:33:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Stock-option-insurance/</loc>
+        <lastmod>2016-07-23T16:33:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
