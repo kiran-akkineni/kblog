@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-23T23:53:47.000Z</updated>
+  <updated>2016-07-24T06:17:20.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -14,6 +14,88 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Marketing profitability on the margin</title>
+    <link href="http://kiranakkineni.com/marketing-profitability-on-the-margin/2016/07/23/"/>
+    <id>http://kiranakkineni.com/marketing-profitability-on-the-margin/2016/07/23/</id>
+    <published>2016-07-24T04:14:37.000Z</published>
+    <updated>2016-07-24T06:17:20.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Intro&quot;&gt;
+  &lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Digital marketing generally will create more sales, especially given the distribution
+  capabilities of today’s leading ad platforms, but marketing spend is rarely frictionless.
+  The cost to acquire more of a given population increases faster than sales because
+  the quality of the additional traffic tends to decline, but this doesn’t necessarily
+  mean you should stop spending. &lt;/p&gt;
+&lt;h1 id=&quot;Simple-example&quot;&gt;
+  &lt;a href=&quot;#Simple-example&quot; class=&quot;headerlink&quot; title=&quot;Simple example&quot;&gt;&lt;/a&gt;Simple example&lt;/h1&gt;
+&lt;p&gt;Say that you run a company that sells widgets, with a product margin of $10 per widget.
+  You have recently been spending money on an ad platform called Poople, obtaining
+  new widget orders at a cost of $5 per order. You are acquiring about 1000 orders
+  per month through Poople, and now have the opportunity to increase your spend to
+  acquire 1100 orders per month. To do this, you have calculated that your cost will
+  now come out to $6 per order. Do you spend the money and increase sales at the
+  increased cost?&lt;/p&gt;
+&lt;h1 id=&quot;Framing-the-problem&quot;&gt;
+  &lt;a href=&quot;#Framing-the-problem&quot; class=&quot;headerlink&quot; title=&quot;Framing the problem&quot;&gt;&lt;/a&gt;Framing the problem&lt;/h1&gt;
+&lt;p&gt;It helps to think of this decision in terms of marginal costs and profit. As far
+  as you know, every additional widget sold will earn you $10, so your marginal profit
+  is flat. You’ve now calculated that your additional cost per acquired order on
+  Poople will increase from $5 to $6. So the question is whether the additional cost
+  of the additional orders is lower than the additional margins from those additional
+  orders (which you already know is $10).&lt;/p&gt;
+&lt;h1 id=&quot;The-math&quot;&gt;
+  &lt;a href=&quot;#The-math&quot; class=&quot;headerlink&quot; title=&quot;The math&quot;&gt;&lt;/a&gt;The math&lt;/h1&gt;
+&lt;p&gt;Once you’ve framed the problem, the math is fairly straightforward:&lt;/p&gt;
+&lt;p&gt;Marginal product margin = $10 / widget order
+  &lt;br&gt;Marginal cost from marketing spend increase
+  &lt;br&gt; = ($6 x 1100 - $5 x 1000)/(1100-1000)
+  &lt;br&gt; = ($6600-$5000)/(1100-1000)
+  &lt;br&gt; = ($1600)/(100)
+  &lt;br&gt; = $16 / widget order&lt;/p&gt;
+&lt;p&gt;In this case, the marginal cost is higher than the marginal product margin. So each
+  additional order is actually unprofitable, and it’s not worth the growth unless
+  you are getting $6 worth of additional value from those orders outside of what
+  the customers are paying.&lt;/p&gt;
+&lt;p&gt;Let’s say you would have been able to achieve 1200 orders after the added spend instead
+  of 1100. In this case the marginal cost ends up being $8, meaning you’d continue
+  making money on the additional widgets. At $8, the profit is less per widget than
+  you make on the baseline 1000 orders, but it’s still a positive return, which makes
+  the growth worth it.&lt;/p&gt;
+&lt;h1 id=&quot;Conclusion&quot;&gt;
+  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Make sure to understand and pay attention to marginal costs (and marginal gains)
+  when deciding whether to increase marketing spend. Also, different ad platforms
+  have different pricing models (CPC, CPM, etc.), so make sure to have the data to
+  effectively translate that pricing into marginal costs. &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Intro&quot;&gt;
+  &lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Digital marketing generally will create more sales, es
+    
+    </summary>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
+    
+      <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
+    
+      <category term="Marginal cost" scheme="http://kiranakkineni.com/tags/Marginal-cost/"/>
+    
+      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+  </entry>
   
   <entry>
     <title>Customer Acquisition Cost (CAC)</title>
@@ -153,11 +235,11 @@
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
     
-      <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
-    
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+      <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
     
   </entry>
   
@@ -327,11 +409,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -418,11 +500,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -495,11 +577,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -667,11 +749,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
@@ -746,11 +828,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
-    
       <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
     
   </entry>
   
