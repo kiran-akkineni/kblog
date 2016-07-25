@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-25T02:29:37.000Z</updated>
+  <updated>2016-07-25T02:58:05.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,19 +20,24 @@
     <link href="http://kiranakkineni.com/marketing-mix-shift/2016/07/24/"/>
     <id>http://kiranakkineni.com/marketing-mix-shift/2016/07/24/</id>
     <published>2016-07-24T20:00:00.000Z</published>
-    <updated>2016-07-25T02:29:37.000Z</updated>
+    <updated>2016-07-25T02:58:05.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;Mix-shift-defined&quot;&gt;
-  &lt;a href=&quot;#Mix-shift-defined&quot; class=&quot;headerlink&quot; title=&quot;Mix shift defined&quot;&gt;&lt;/a&gt;Mix shift defined&lt;/h1&gt;
-&lt;p&gt;Average order value is intended to represent the dollar amount of your average customer’s
-  payment. At its simplest, AOV is represented as [Total Sales] / [Total Orders].
-  So if you made $1000 in total sales in a month on 100 orders, your AOV would be
-  $10 for that month.&lt;/p&gt;
-&lt;h1 id=&quot;Example&quot;&gt;
-  &lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h1&gt;
+    <content type="html">&lt;h1 id=&quot;The-concept&quot;&gt;
+  &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
+&lt;p&gt;When a key metric changes, there’s often a clear driver that impacted all users or
+  customers. Your checkout process is broken, you launched a special sale, you kicked
+  off a loyalty program, and so on. But sometimes there isn’t an obvious reason,
+  and and a deeper understanding of underlying user segments is required. This allows
+  you to determine whether the cause is missed performance in a given segment, or
+  a change in size of a segment relative to other segments. The latter example is
+  mix shift, and it can meaningfully impact if it persists.&lt;/p&gt;
+&lt;h1 id=&quot;The-example&quot;&gt;
+  &lt;a href=&quot;#The-example&quot; class=&quot;headerlink&quot; title=&quot;The example&quot;&gt;&lt;/a&gt;The example&lt;/h1&gt;
 &lt;p&gt;Let’s say your conversion rate in the latest week dropped from 5.05% the week before
   to 4.61%, and you want to know what caused the drop. You decide to start looking
   at the behavior of traffic coming through each of your 3 marketing channels. &lt;/p&gt;
+&lt;p&gt;So you put together a basic data table with traffic and conversion by each channel,
+  and the totals:&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
@@ -74,34 +79,26 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h1 id=&quot;The-math&quot;&gt;
+  &lt;a href=&quot;#The-math&quot; class=&quot;headerlink&quot; title=&quot;The math&quot;&gt;&lt;/a&gt;The math&lt;/h1&gt;
 &lt;h1 id=&quot;Diving-deeper&quot;&gt;
   &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
-&lt;p&gt;After getting comfortable with the basics, there is a ton of additional analysis
-  that you can perform on AOV in order to better understand your customers and your
-  business.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Different components of AOV (product price and quantity, shipping costs, taxes)&lt;/li&gt;
-  &lt;li&gt;Changes in AOV (effects of seasonality, product mix, pricing, loyalty programs)&lt;/li&gt;
-  &lt;li&gt;Relationship between AOV and conversion rates (usually caused by pricing, but not
-    exclusivelys)&lt;/li&gt;
-  &lt;li&gt;Behavioral differences between high-AOV customers and low-AOV customers&lt;/li&gt;
-  &lt;li&gt;Comparing AOV to Median Order Value, to understand how much AOV is skewed by high
-    (or low) spending customers&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h1 id=&quot;Conclusion&quot;&gt;
   &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
 </content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Mix-shift-defined&quot;&gt;
-  &lt;a href=&quot;#Mix-shift-defined&quot; class=&quot;headerlink&quot; title=&quot;Mix shift defined&quot;&gt;&lt;/a&gt;Mix shift defined&lt;/h1&gt;
-&lt;p&gt;Averag
+      &lt;h1 id=&quot;The-concept&quot;&gt;
+  &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
+&lt;p&gt;When a key metric changes, the
     
     </summary>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
@@ -112,8 +109,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -184,6 +179,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -192,9 +189,75 @@
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
     
+      <category term="Marginal cost" scheme="http://kiranakkineni.com/tags/Marginal-cost/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Customer Acquisition Cost (CAC)</title>
+    <link href="http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/"/>
+    <id>http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/</id>
+    <published>2016-07-23T19:00:00.000Z</published>
+    <updated>2016-07-24T06:19:06.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;CAC-defined&quot;&gt;
+  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
+&lt;p&gt;Customer acquisition cost represents how many marketing dollars it costs to get customers
+  to buy your product for the first time. The basic CAC calculation is [Total Marketing
+  Spend]/[Total New Customers].&lt;/p&gt;
+&lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
+  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
+&lt;p&gt;The lower your CAC is relative to the total amount a customer spends with you over
+  their lifetime (LTV), the better. It means you can potentially increase marketing
+  spend in order to grow and scale your business. If your CAC is relatively high,
+  it likely means you need more optimization around your marketing or that your business
+  needs to depend more heavily on organic marketing (word of mouth, social, SEO)&lt;/p&gt;
+&lt;h1 id=&quot;Diving-deeper&quot;&gt;
+  &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
+&lt;p&gt;Given that CAC is a cost, it’s especially important to understand it in more detail.
+  It’s easy to waste marketing dollars, especially in digital marketing, where more
+  spend almost always seems to mean more customers.
+  &lt;br&gt;Some additional analysis worth knowing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CAC by marketing channel&lt;/li&gt;
+  &lt;li&gt;Components comprising CAC (cost of traffic, conversion rate, new customer %)&lt;/li&gt;
+  &lt;li&gt;CAC of the marginal or incremental customer if you increase marketing spend&lt;/li&gt;
+  &lt;li&gt;Impact of the sales cycle on CAC (it can go down over time with long sales cycles)&lt;/li&gt;
+  &lt;li&gt;Percentage of marketing spend that is driving repeat customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Conclusion&quot;&gt;
+  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;For any company that expands through paid marketing channels, it’s imperative to
+  understand CAC and how it evolves as those channels mature over the business’ lifecycle.&lt;/p&gt;
+&lt;p&gt;If you are planning on raising capital for your business, make sure to know it across
+  all meaningful dimensions. Most investors will assume some portion of the raised
+  funds (especially mid-to-late stages) will be dedicated to marketing. They’ll want
+  to know the funds will be deployed prudently, and knowing CAC is a basic requirement
+  for that.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;CAC-defined&quot;&gt;
+  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
+&lt;p&gt;Customer acquisition cost repr
+    
+    </summary>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
+    
+    
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
-      <category term="Marginal cost" scheme="http://kiranakkineni.com/tags/Marginal-cost/"/>
+      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
+    
+      <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
+    
+      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+      <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
     
   </entry>
   
@@ -262,6 +325,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -269,78 +334,8 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Customer Acquisition Cost (CAC)</title>
-    <link href="http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/"/>
-    <id>http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/</id>
-    <published>2016-07-23T19:00:00.000Z</published>
-    <updated>2016-07-24T06:19:06.000Z</updated>
-    
-    <content type="html">&lt;h1 id=&quot;CAC-defined&quot;&gt;
-  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
-&lt;p&gt;Customer acquisition cost represents how many marketing dollars it costs to get customers
-  to buy your product for the first time. The basic CAC calculation is [Total Marketing
-  Spend]/[Total New Customers].&lt;/p&gt;
-&lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
-  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
-&lt;p&gt;The lower your CAC is relative to the total amount a customer spends with you over
-  their lifetime (LTV), the better. It means you can potentially increase marketing
-  spend in order to grow and scale your business. If your CAC is relatively high,
-  it likely means you need more optimization around your marketing or that your business
-  needs to depend more heavily on organic marketing (word of mouth, social, SEO)&lt;/p&gt;
-&lt;h1 id=&quot;Diving-deeper&quot;&gt;
-  &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
-&lt;p&gt;Given that CAC is a cost, it’s especially important to understand it in more detail.
-  It’s easy to waste marketing dollars, especially in digital marketing, where more
-  spend almost always seems to mean more customers.
-  &lt;br&gt;Some additional analysis worth knowing:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;CAC by marketing channel&lt;/li&gt;
-  &lt;li&gt;Components comprising CAC (cost of traffic, conversion rate, new customer %)&lt;/li&gt;
-  &lt;li&gt;CAC of the marginal or incremental customer if you increase marketing spend&lt;/li&gt;
-  &lt;li&gt;Impact of the sales cycle on CAC (it can go down over time with long sales cycles)&lt;/li&gt;
-  &lt;li&gt;Percentage of marketing spend that is driving repeat customers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;Conclusion&quot;&gt;
-  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
-&lt;p&gt;For any company that expands through paid marketing channels, it’s imperative to
-  understand CAC and how it evolves as those channels mature over the business’ lifecycle.&lt;/p&gt;
-&lt;p&gt;If you are planning on raising capital for your business, make sure to know it across
-  all meaningful dimensions. Most investors will assume some portion of the raised
-  funds (especially mid-to-late stages) will be dedicated to marketing. They’ll want
-  to know the funds will be deployed prudently, and knowing CAC is a basic requirement
-  for that.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;CAC-defined&quot;&gt;
-  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
-&lt;p&gt;Customer acquisition cost repr
-    
-    </summary>
-    
-      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
-    
-    
-      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
-    
-      <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
-    
-      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
-    
-      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
-      <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
     
   </entry>
   
@@ -424,9 +419,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
@@ -749,8 +744,6 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
@@ -760,6 +753,8 @@
       <category term="Tor" scheme="http://kiranakkineni.com/tags/Tor/"/>
     
       <category term="Ethereum" scheme="http://kiranakkineni.com/tags/Ethereum/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -988,9 +983,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
@@ -1050,9 +1045,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
