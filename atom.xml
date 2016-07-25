@@ -97,6 +97,121 @@
   </entry>
   
   <entry>
+    <title>Marketing Mix Shift</title>
+    <link href="http://kiranakkineni.com/marketing-mix-shift/2016/07/24/"/>
+    <id>http://kiranakkineni.com/marketing-mix-shift/2016/07/24/</id>
+    <published>2016-07-24T19:00:00.000Z</published>
+    <updated>2016-07-25T02:20:23.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Mix-shift-defined&quot;&gt;
+  &lt;a href=&quot;#Mix-shift-defined&quot; class=&quot;headerlink&quot; title=&quot;Mix shift defined&quot;&gt;&lt;/a&gt;Mix shift defined&lt;/h1&gt;
+&lt;p&gt;Average order value is intended to represent the dollar amount of your average customer’s
+  payment. At its simplest, AOV is represented as [Total Sales] / [Total Orders].
+  So if you made $1000 in total sales in a month on 100 orders, your AOV would be
+  $10 for that month.&lt;/p&gt;
+&lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
+  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
+&lt;p&gt;AOV can be useful for a variety of reasons, a few of which are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understanding what your typical customer expects to spend with your business, which
+    informs:
+    &lt;ul&gt;
+      &lt;li&gt;Insight into whether your pricing is appropriates&lt;/li&gt;
+      &lt;li&gt;Understand how customers from different channels differ in their spending habits&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the profit you make per order, which in turn informs:
+    &lt;ul&gt;
+      &lt;li&gt;How much you should be willing to pay to acquire an order through marketing&lt;/li&gt;
+      &lt;li&gt;How much you can offer in discounts without being unprofitable&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Diving-deeper&quot;&gt;
+  &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
+&lt;p&gt;After getting comfortable with the basics, there is a ton of additional analysis
+  that you can perform on AOV in order to better understand your customers and your
+  business.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Different components of AOV (product price and quantity, shipping costs, taxes)&lt;/li&gt;
+  &lt;li&gt;Changes in AOV (effects of seasonality, product mix, pricing, loyalty programs)&lt;/li&gt;
+  &lt;li&gt;Relationship between AOV and conversion rates (usually caused by pricing, but not
+    exclusivelys)&lt;/li&gt;
+  &lt;li&gt;Behavioral differences between high-AOV customers and low-AOV customers&lt;/li&gt;
+  &lt;li&gt;Comparing AOV to Median Order Value, to understand how much AOV is skewed by high
+    (or low) spending customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Conclusion&quot;&gt;
+  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Channel&lt;/th&gt;
+      &lt;th&gt;Last week visits&lt;/th&gt;
+      &lt;th&gt;Last week conversion&lt;/th&gt;
+      &lt;th&gt;This week visits&lt;/th&gt;
+      &lt;th&gt;Last week conversion&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Search&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;2.00%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Email&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+      &lt;td&gt;6.00%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Direct&lt;/td&gt;
+      &lt;td&gt;70&lt;/td&gt;
+      &lt;td&gt;5.00%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;All channels&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;5.05%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Mix-shift-defined&quot;&gt;
+  &lt;a href=&quot;#Mix-shift-defined&quot; class=&quot;headerlink&quot; title=&quot;Mix shift defined&quot;&gt;&lt;/a&gt;Mix shift defined&lt;/h1&gt;
+&lt;p&gt;Averag
+    
+    </summary>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
+    
+      <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
+    
+      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+      <category term="Mix Shift" scheme="http://kiranakkineni.com/tags/Mix-Shift/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Customer Acquisition Cost (CAC)</title>
     <link href="http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/"/>
     <id>http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/</id>
