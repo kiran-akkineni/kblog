@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-25T03:00:22.000Z</updated>
+  <updated>2016-07-25T03:13:45.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://kiranakkineni.com/marketing-mix-shift/2016/07/24/"/>
     <id>http://kiranakkineni.com/marketing-mix-shift/2016/07/24/</id>
     <published>2016-07-24T20:00:00.000Z</published>
-    <updated>2016-07-25T03:00:22.000Z</updated>
+    <updated>2016-07-25T03:13:45.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;The-concept&quot;&gt;
   &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
@@ -82,6 +82,70 @@
 &lt;/table&gt;
 &lt;h1 id=&quot;The-math&quot;&gt;
   &lt;a href=&quot;#The-math&quot; class=&quot;headerlink&quot; title=&quot;The math&quot;&gt;&lt;/a&gt;The math&lt;/h1&gt;
+&lt;p&gt;First things first, let’s break do some quick math to make the data more usable:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Channel&lt;/th&gt;
+      &lt;th&gt;Last week share&lt;/th&gt;
+      &lt;th&gt;This week share&lt;/th&gt;
+      &lt;th&gt;Change in share&lt;/th&gt;
+      &lt;th&gt;Change in conversion&lt;/th&gt;
+      &lt;th&gt;Last week conversion diff from avg.&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(channel / all channels)&lt;/td&gt;
+      &lt;td&gt;(channel / all channels)&lt;/td&gt;
+      &lt;td&gt;(This week share - Last week share)&lt;/td&gt;
+      &lt;td&gt;(This week conversion - last week conversion)&lt;/td&gt;
+      &lt;td&gt;(channel - all channels)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Search&lt;/td&gt;
+      &lt;td&gt;15%&lt;/td&gt;
+      &lt;td&gt;21%&lt;/td&gt;
+      &lt;td&gt;6.3%&lt;/td&gt;
+      &lt;td&gt;-0.10%&lt;/td&gt;
+      &lt;td&gt;-3.05%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Email&lt;/td&gt;
+      &lt;td&gt;50%&lt;/td&gt;
+      &lt;td&gt;47%&lt;/td&gt;
+      &lt;td&gt;-3.2%&lt;/td&gt;
+      &lt;td&gt;0.20%&lt;/td&gt;
+      &lt;td&gt;0.95%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Direct&lt;/td&gt;
+      &lt;td&gt;35%&lt;/td&gt;
+      &lt;td&gt;32%&lt;/td&gt;
+      &lt;td&gt;-3.1%&lt;/td&gt;
+      &lt;td&gt;0.00%&lt;/td&gt;
+      &lt;td&gt;-0.05%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;All channels&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+      &lt;td&gt;0.0%&lt;/td&gt;
+      &lt;td&gt;-0.15%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The formulas used to calculate each field are right below each column header in the
+  table above. Here are the steps we went through:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Translate ‘visits’ to ‘share’, in order to make traffic apples-to-apples from one
+    week to the next&lt;/li&gt;
+  &lt;li&gt;Calculate ‘change in share’ to understand how each channel changed in size relative
+    to other channels&lt;/li&gt;
+  &lt;li&gt;Calculate the ‘Last week conversion diff from avg.’ to understand whether a channel
+    improves or hurts conversion when its share increases&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&quot;Diving-deeper&quot;&gt;
   &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
 &lt;h1 id=&quot;Conclusion&quot;&gt;
