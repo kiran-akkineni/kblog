@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-25T03:13:45.000Z</updated>
+  <updated>2016-07-25T04:03:03.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://kiranakkineni.com/marketing-mix-shift/2016/07/24/"/>
     <id>http://kiranakkineni.com/marketing-mix-shift/2016/07/24/</id>
     <published>2016-07-24T20:00:00.000Z</published>
-    <updated>2016-07-25T03:13:45.000Z</updated>
+    <updated>2016-07-25T04:03:03.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;The-concept&quot;&gt;
   &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
@@ -35,7 +35,7 @@
 &lt;h1 id=&quot;The-example&quot;&gt;
   &lt;a href=&quot;#The-example&quot; class=&quot;headerlink&quot; title=&quot;The example&quot;&gt;&lt;/a&gt;The example&lt;/h1&gt;
 &lt;p&gt;Let’s say your conversion rate in the latest week dropped from 5.05% the week before
-  to 4.61%, and you want to know what caused the drop. You decide to start looking
+  to 4.90%, and you want to know what caused the drop. You decide to start looking
   at the behavior of traffic coming through each of your 3 marketing channels. &lt;/p&gt;
 &lt;p&gt;So you put together a basic data table with traffic and conversion by each channel,
   and the totals:&lt;/p&gt;
@@ -146,10 +146,79 @@
   &lt;li&gt;Calculate the ‘Last week conversion diff from avg.’ to understand whether a channel
     improves or hurts conversion when its share increases&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&quot;Diving-deeper&quot;&gt;
-  &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
+&lt;p&gt;Now, to understand the different effects:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Channel&lt;/th&gt;
+      &lt;th&gt;Intra-channel&lt;/th&gt;
+      &lt;th&gt;Mix shift&lt;/th&gt;
+      &lt;th&gt;Interaction&lt;/th&gt;
+      &lt;th&gt;All effects&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;(Last week share) X (Change in conversion)&lt;/td&gt;
+      &lt;td&gt;(Last week conversion diff vs avg) X (Change in share)&lt;/td&gt;
+      &lt;td&gt;(Change in share) X (Change in conversion)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Search&lt;/td&gt;
+      &lt;td&gt;-0.02%&lt;/td&gt;
+      &lt;td&gt;-0.19%&lt;/td&gt;
+      &lt;td&gt;-0.01%&lt;/td&gt;
+      &lt;td&gt;-0.21%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Email&lt;/td&gt;
+      &lt;td&gt;0.10%&lt;/td&gt;
+      &lt;td&gt;-0.03%&lt;/td&gt;
+      &lt;td&gt;-0.01%&lt;/td&gt;
+      &lt;td&gt;0.06%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Direct&lt;/td&gt;
+      &lt;td&gt;0.00%&lt;/td&gt;
+      &lt;td&gt;0.00%&lt;/td&gt;
+      &lt;td&gt;0.00%&lt;/td&gt;
+      &lt;td&gt;0.00%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;All channels&lt;/td&gt;
+      &lt;td&gt;0.09%&lt;/td&gt;
+      &lt;td&gt;-0.22%&lt;/td&gt;
+      &lt;td&gt;-0.01%&lt;/td&gt;
+      &lt;td&gt;-0.15%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+  &lt;li&gt;Intra-channel represents the portion of the change in conversion due to changes
+    within a channel. In this case, Email generated a positive effect of 0.1% because
+    its conversion increased from 6% to 6.2%&lt;/li&gt;
+  &lt;li&gt;Mix shift represents the portion of the change due to changes in the relative size
+    of a channel. In this case, Search generated a negative effect of -0.19% because
+    its share increased from 15% to 21% of the total traffic.&lt;/li&gt;
+  &lt;li&gt;Interaction represents a second order effect caused by a combination of mix and
+    intra-channel. It’s the least actionable effect, but it’s also usually much smaller
+    than the other effects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see, there are many effects taking place that impacted the drop in conversion
+  0.15 percentage points down to 4.90%, but the Search channel Mix effect stands
+  out as the largest. Search, which has a much lower conversion than other channels,
+  increased meaningfully from 15% to 21%. If this channel remains elevated, you’ll
+  need to ensure that the underlying assumptions and economics account for this change
+  lest it hurts overall profitability.&lt;/p&gt;
 &lt;h1 id=&quot;Conclusion&quot;&gt;
   &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Depending on how you look at it, mix shift can explain the large majority of changes
+  in key metrics. Even special sales and loyalty programs represents segments that
+  change the overall numbers when increasing or decreasing in size. Locating the
+  mix shift and understanding why it happened is key to ensuring that your numbers
+  don’t run askew and that your business stays healthy in the long run.&lt;/p&gt;
 </content>
     
     <summary type="html">
@@ -163,17 +232,17 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
-    
-      <category term="Mix Shift" scheme="http://kiranakkineni.com/tags/Mix-Shift/"/>
     
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+      <category term="Mix Shift" scheme="http://kiranakkineni.com/tags/Mix-Shift/"/>
     
   </entry>
   
@@ -244,6 +313,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -251,8 +322,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Marginal cost" scheme="http://kiranakkineni.com/tags/Marginal-cost/"/>
     
@@ -312,6 +381,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -319,8 +390,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
     
@@ -390,17 +459,17 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
     
+      <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
+    
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
-      <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
     
   </entry>
   
@@ -484,9 +553,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
@@ -809,9 +878,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
     
@@ -1048,13 +1117,13 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
       <category term="Crowdsourcing" scheme="http://kiranakkineni.com/tags/Crowdsourcing/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -1110,9 +1179,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     

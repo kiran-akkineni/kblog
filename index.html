@@ -297,7 +297,7 @@
 <h1 id="The-example">
   <a href="#The-example" class="headerlink" title="The example"></a>The example</h1>
 <p>Let’s say your conversion rate in the latest week dropped from 5.05% the week before
-  to 4.61%, and you want to know what caused the drop. You decide to start looking
+  to 4.90%, and you want to know what caused the drop. You decide to start looking
   at the behavior of traffic coming through each of your 3 marketing channels. </p>
 <p>So you put together a basic data table with traffic and conversion by each channel,
   and the totals:</p>
@@ -408,10 +408,79 @@
   <li>Calculate the ‘Last week conversion diff from avg.’ to understand whether a channel
     improves or hurts conversion when its share increases</li>
 </ul>
-<h1 id="Diving-deeper">
-  <a href="#Diving-deeper" class="headerlink" title="Diving deeper"></a>Diving deeper</h1>
+<p>Now, to understand the different effects:</p>
+<table>
+  <thead>
+    <tr>
+      <th>Channel</th>
+      <th>Intra-channel</th>
+      <th>Mix shift</th>
+      <th>Interaction</th>
+      <th>All effects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>(Last week share) X (Change in conversion)</td>
+      <td>(Last week conversion diff vs avg) X (Change in share)</td>
+      <td>(Change in share) X (Change in conversion)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Search</td>
+      <td>-0.02%</td>
+      <td>-0.19%</td>
+      <td>-0.01%</td>
+      <td>-0.21%</td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>0.10%</td>
+      <td>-0.03%</td>
+      <td>-0.01%</td>
+      <td>0.06%</td>
+    </tr>
+    <tr>
+      <td>Direct</td>
+      <td>0.00%</td>
+      <td>0.00%</td>
+      <td>0.00%</td>
+      <td>0.00%</td>
+    </tr>
+    <tr>
+      <td>All channels</td>
+      <td>0.09%</td>
+      <td>-0.22%</td>
+      <td>-0.01%</td>
+      <td>-0.15%</td>
+    </tr>
+  </tbody>
+</table>
+<ul>
+  <li>Intra-channel represents the portion of the change in conversion due to changes
+    within a channel. In this case, Email generated a positive effect of 0.1% because
+    its conversion increased from 6% to 6.2%</li>
+  <li>Mix shift represents the portion of the change due to changes in the relative size
+    of a channel. In this case, Search generated a negative effect of -0.19% because
+    its share increased from 15% to 21% of the total traffic.</li>
+  <li>Interaction represents a second order effect caused by a combination of mix and
+    intra-channel. It’s the least actionable effect, but it’s also usually much smaller
+    than the other effects</li>
+</ul>
+<p>As you can see, there are many effects taking place that impacted the drop in conversion
+  0.15 percentage points down to 4.90%, but the Search channel Mix effect stands
+  out as the largest. Search, which has a much lower conversion than other channels,
+  increased meaningfully from 15% to 21%. If this channel remains elevated, you’ll
+  need to ensure that the underlying assumptions and economics account for this change
+  lest it hurts overall profitability.</p>
 <h1 id="Conclusion">
   <a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h1>
+<p>Depending on how you look at it, mix shift can explain the large majority of changes
+  in key metrics. Even special sales and loyalty programs represents segments that
+  change the overall numbers when increasing or decreasing in size. Locating the
+  mix shift and understanding why it happened is key to ensuring that your numbers
+  don’t run askew and that your business stays healthy in the long run.</p>
 
       
     </div>
