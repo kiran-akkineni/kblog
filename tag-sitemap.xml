@@ -16,20 +16,6 @@
     </url>
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Weekly-reads/</loc>
-        <lastmod>2016-06-19T21:10:45.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/Articles/</loc>
-        <lastmod>2016-06-19T21:10:45.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://kiranakkineni.com/tags/Work/</loc>
         <lastmod>2016-06-19T21:10:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -72,28 +58,7 @@
     </url>
 
     <url>
-        <loc>http://kiranakkineni.com/tags/Product-management/</loc>
-        <lastmod>2016-06-25T16:18:35.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://kiranakkineni.com/tags/Data-and-Tech/</loc>
-        <lastmod>2016-06-25T16:18:35.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/Perspectives/</loc>
-        <lastmod>2016-06-25T16:18:35.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kiranakkineni.com/tags/Strategy-and-business/</loc>
         <lastmod>2016-06-25T16:18:35.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,7 +171,42 @@
 
     <url>
         <loc>http://kiranakkineni.com/tags/Kiran-Akkineni/</loc>
-        <lastmod>2016-07-25T04:04:18.000Z</lastmod>
+        <lastmod>2016-07-27T05:13:31.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Weekly-reads/</loc>
+        <lastmod>2016-07-27T05:13:31.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Articles/</loc>
+        <lastmod>2016-07-27T05:13:31.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Product-management/</loc>
+        <lastmod>2016-07-27T05:13:31.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Perspectives/</loc>
+        <lastmod>2016-07-27T05:13:31.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kiranakkineni.com/tags/Strategy-and-business/</loc>
+        <lastmod>2016-07-27T05:13:31.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

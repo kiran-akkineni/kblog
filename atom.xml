@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-25T04:04:18.000Z</updated>
+  <updated>2016-07-27T05:13:31.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -14,6 +14,91 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Weekly reads, week of June 13 2016</title>
+    <link href="http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jul18/2016/07/26/"/>
+    <id>http://kiranakkineni.com/Weekly-reads-on-commute-2016-Jul18/2016/07/26/</id>
+    <published>2016-07-27T04:16:58.000Z</published>
+    <updated>2016-07-27T05:13:31.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Product-management&quot;&gt;
+  &lt;a href=&quot;#Product-management&quot; class=&quot;headerlink&quot; title=&quot;Product management&quot;&gt;&lt;/a&gt;Product management&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://firstround.com/review/how-a-b-testing-at-linkedin-wealthfront-and-ebay-made-me-a-better-manager/?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;How A/B Testing at LinkedIn, Wealthfront and eBay Made Me a Better Manager&lt;/a&gt;
+  interview with Elliot Shmukler
+  &lt;br&gt;// A good synopsis of why testing of low-consequence decisions (Type 2) has a great
+  cultural impact through enablement of learning and encouragement of diverse approaches
+  to product management.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://techcrunch.com/2016/07/11/the-brilliant-mechanics-of-pokemon-go/?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The brilliant mechanics of Pokémon Go&lt;/a&gt; by Matthew Lynley
+  &lt;br&gt;// Very sticky and viral product driven by a great combination of variable rewards
+  system, requirements to keep the game open, and unique gameplay driven by ever-changing
+  environments produced by the users themselves.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.yex8fsr5h?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Complexion Reduction: A New Trend In Mobile Design&lt;/a&gt; by Michael Horton
+  &lt;br&gt;// Mobile design continues to simplify over time. This may be driven by the highly
+  functional and specific usage of apps on mobile relative to desktop.&lt;/p&gt;
+&lt;h1 id=&quot;Business-and-Strategy&quot;&gt;
+  &lt;a href=&quot;#Business-and-Strategy&quot; class=&quot;headerlink&quot; title=&quot;Business and Strategy&quot;&gt;&lt;/a&gt;Business and Strategy&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DOLLAR SHAVE CLUB AND THE DISRUPTION OF EVERYTHING&lt;/a&gt; by Ben Thompson
+  &lt;br&gt;// Gillette’s multiplicative advantage of innovation X awareness X distribution
+  eroded as innovation yielded increasingly diminishing marginal returns and as the
+  costs of awareness and distribution declined enough to allow smaller businesses
+  like DSC to compete. As far as the acquisition price is concerned, ‘but $1 billion
+  for a 16% unit share of a market dominated by a brand that cost $57 billion is
+  startlingly small’.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://medium.com/@pakman/dollar-shave-club-how-michael-dubin-created-a-massively-successful-company-and-re-defined-cpg-f2fa700af62b#.5klohwqsh?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Dollar Shave Club: How Michael Dubin Created A Massively Successful Company and
+    Re-Defined CPG&lt;/a&gt; by David Pakman
+  &lt;br&gt;// The winning formula = (Price X Convenience)^Brand. Also interesting is Venrock’s
+  thesis to ‘choose categories where incumbents only sell through retailers and have
+  no direct relationship with their actual customers’&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://money.cnn.com/2016/07/20/media/medium-think-progress/index.html?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Medium lands biggest website yet&lt;/a&gt; by Tom Kludt
+  &lt;br&gt;// Medium’s approach to publishing is a significant departure from that of Facebook,
+  Google, and Amazon in that the company has positioned itself as a network for publishers
+  rather than a publishing platform. This is reflected in Medium’s intent to enable
+  publishers to derive value from allowing content to be hosted on the site.&lt;/p&gt;
+&lt;h1 id=&quot;Perspectives&quot;&gt;
+  &lt;a href=&quot;#Perspectives&quot; class=&quot;headerlink&quot; title=&quot;Perspectives&quot;&gt;&lt;/a&gt;Perspectives&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://ben-evans.com/benedictevans/2016/7/12/the-hedgehog-and-the-fox?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The hedgehog and the fox&lt;/a&gt;
+  &lt;br&gt;// The latest era of the hedgehog may be waning given the sheer number of technologies
+  that have matured in recent times&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://www.npr.org/sections/13.7/2016/07/14/485992587/were-there-aliens-before-us?utm_source=kiranakkineni&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Were There Aliens Before Us?&lt;/a&gt;
+  &lt;br&gt;// As we gain greater certainty around more variables in the Drake equation, it
+  becomes increasingly likely (almost guaranteed) that an advanced civilization has
+  existed in the universe at some point in the universe’s history.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Product-management&quot;&gt;
+  &lt;a href=&quot;#Product-management&quot; class=&quot;headerlink&quot; title=&quot;Product management&quot;&gt;&lt;/a&gt;Product management&lt;/h1&gt;
+&lt;p&gt;
+ 
+    
+    </summary>
+    
+      <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
+    
+      <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
+    
+      <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+  </entry>
   
   <entry>
     <title>Mix shift</title>
@@ -232,6 +317,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -241,8 +328,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -313,6 +398,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -320,8 +407,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Marginal cost" scheme="http://kiranakkineni.com/tags/Marginal-cost/"/>
     
@@ -381,6 +466,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -388,8 +475,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
     
@@ -459,6 +544,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -466,8 +553,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
     
@@ -553,8 +638,6 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
@@ -564,6 +647,8 @@
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
     
       <category term="Stock option management plan" scheme="http://kiranakkineni.com/tags/Stock-option-management-plan/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -639,11 +724,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
-    
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
     
       <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -730,11 +815,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
-    
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
     
       <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
   </entry>
   
@@ -807,11 +892,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
-    
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
     
       <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
       <category term="Matt Johnson" scheme="http://kiranakkineni.com/tags/Matt-Johnson/"/>
     
@@ -878,9 +963,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
     
@@ -979,11 +1064,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
-    
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
     
       <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
   </entry>
   
@@ -1058,11 +1143,11 @@
     
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
-      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
-    
       <category term="Perspectives" scheme="http://kiranakkineni.com/tags/Perspectives/"/>
     
       <category term="Strategy and business" scheme="http://kiranakkineni.com/tags/Strategy-and-business/"/>
+    
+      <category term="Data and Tech" scheme="http://kiranakkineni.com/tags/Data-and-Tech/"/>
     
   </entry>
   
@@ -1117,9 +1202,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
@@ -1179,8 +1264,6 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
@@ -1188,6 +1271,8 @@
       <category term="Employee stock options" scheme="http://kiranakkineni.com/tags/Employee-stock-options/"/>
     
       <category term="ESO" scheme="http://kiranakkineni.com/tags/ESO/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Stock option insurance" scheme="http://kiranakkineni.com/tags/Stock-option-insurance/"/>
     
@@ -1307,17 +1392,17 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -1421,17 +1506,17 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -1534,17 +1619,17 @@
       <category term="Lists" scheme="http://kiranakkineni.com/categories/Lists/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
-    
       <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+    
+      <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
