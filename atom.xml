@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-27T05:37:54.000Z</updated>
+  <updated>2016-07-29T22:18:48.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -14,6 +14,146 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Simpson&#39;s Paradox</title>
+    <link href="http://kiranakkineni.com/simpsons-paradox/2016/07/29/"/>
+    <id>http://kiranakkineni.com/simpsons-paradox/2016/07/29/</id>
+    <published>2016-07-29T20:00:00.000Z</published>
+    <updated>2016-07-29T22:18:48.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;The-concept&quot;&gt;
+  &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
+&lt;p&gt;When comparing performance of large segments of data, it’s easy to arrive at the
+  wrong conclusions without understanding the underlying data. When a subgroup makes
+  up a bigger piece of the pie in one group vs. another, that subgroup will over-influence
+  the group’s performance data. If you are unaware of this over-representation, you
+  may end up favoring the wrong group, and eventually make the wrong decision.&lt;/p&gt;
+&lt;h1 id=&quot;The-example&quot;&gt;
+  &lt;a href=&quot;#The-example&quot; class=&quot;headerlink&quot; title=&quot;The example&quot;&gt;&lt;/a&gt;The example&lt;/h1&gt;
+&lt;p&gt;Let’s say you are deciding on two types of advertising for a nationwide promotion
+  coming up. To aid in your decision, you run each ad in test city and monitor performance
+  for 5 days. &lt;/p&gt;
+&lt;p&gt;After the 5 days are over, you put together a basic data table by day and by city,
+  to compare conversion rates:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Day&lt;/th&gt;
+      &lt;th&gt;City A visits&lt;/th&gt;
+      &lt;th&gt;City A conversion&lt;/th&gt;
+      &lt;th&gt;City B visits&lt;/th&gt;
+      &lt;th&gt;City B conversion&lt;/th&gt;
+      &lt;th&gt;City A vs City B&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;10.00%&lt;/td&gt;
+      &lt;td&gt;60&lt;/td&gt;
+      &lt;td&gt;9.50%&lt;/td&gt;
+      &lt;td&gt;+5.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;75&lt;/td&gt;
+      &lt;td&gt;10.00%&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+      &lt;td&gt;9.50%&lt;/td&gt;
+      &lt;td&gt;+5.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3 (holiday)&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;5.00%&lt;/td&gt;
+      &lt;td&gt;150&lt;/td&gt;
+      &lt;td&gt;4.75%&lt;/td&gt;
+      &lt;td&gt;+5.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;75&lt;/td&gt;
+      &lt;td&gt;10.00%&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+      &lt;td&gt;9.50%&lt;/td&gt;
+      &lt;td&gt;+5.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;75&lt;/td&gt;
+      &lt;td&gt;10.00%&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+      &lt;td&gt;9.50%&lt;/td&gt;
+      &lt;td&gt;+5.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;————–&lt;/td&gt;
+      &lt;td&gt;——————&lt;/td&gt;
+      &lt;td&gt;——————–&lt;/td&gt;
+      &lt;td&gt;——————&lt;/td&gt;
+      &lt;td&gt;——————–&lt;/td&gt;
+      &lt;td&gt;———————&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;475&lt;/td&gt;
+      &lt;td&gt;7.89 %&lt;/td&gt;
+      &lt;td&gt;90&lt;/td&gt;
+      &lt;td&gt;8.02%&lt;/td&gt;
+      &lt;td&gt;-1.5%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You notice that when you compare the totals for each city, that city A has a 1.5%
+  lower conversion rate than city B, but when you review the performance by day,
+  city A wins by 5.3% every single day. So which city had the better results and
+  which ad should you choose?&lt;/p&gt;
+&lt;h1 id=&quot;The-math&quot;&gt;
+  &lt;a href=&quot;#The-math&quot; class=&quot;headerlink&quot; title=&quot;The math&quot;&gt;&lt;/a&gt;The math&lt;/h1&gt;
+&lt;p&gt;If you look at the visits by day, you can see that on day 3, city A had 200 visits,
+  which represents 42% of the total visits for city A in the 5 days. City B had 150
+  visits on that day, which represents 31% of the total visits. So even though both
+  cities had much lower conversion than normal on day 3, and city A had a 5.3% higher
+  conversion that city B, the impact of that bad day on city A’s totals was much
+  higher than on city B’s totals because the bad day was over-represented in city
+  A relative to city B.&lt;/p&gt;
+&lt;p&gt;If you had chosen the ad that ran in city B because of the overall better performance,
+  you potentially would have given up the 5.3% additional orders you would have gained
+  had you chosen city A.&lt;/p&gt;
+&lt;h1 id=&quot;Conclusion&quot;&gt;
+  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Make sure to dig a bit deeper and review your data across a few different (and relevant)
+  segments, to ensure there aren’t inherent biases in the data driven by differences
+  in mix. It can make a substantial difference in your outcomes and prevent big surprises
+  down the line.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;The-concept&quot;&gt;
+  &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
+&lt;p&gt;When comparing performance of 
+    
+    </summary>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
+    
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
+    
+      <category term="Mix Shift" scheme="http://kiranakkineni.com/tags/Mix-Shift/"/>
+    
+      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+      <category term="Statistics" scheme="http://kiranakkineni.com/tags/Statistics/"/>
+    
+  </entry>
   
   <entry>
     <title>Weekly reads, week of July 18 2016</title>
@@ -317,6 +457,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -326,8 +468,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -398,6 +538,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -405,8 +547,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Marginal cost" scheme="http://kiranakkineni.com/tags/Marginal-cost/"/>
     
@@ -466,6 +606,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -473,8 +615,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
     
@@ -544,6 +684,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
     
     
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
       <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
     
       <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
@@ -551,8 +693,6 @@
       <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
     
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
     
@@ -638,9 +778,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
@@ -963,8 +1103,6 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
     
       <category term="Media" scheme="http://kiranakkineni.com/tags/Media/"/>
@@ -974,6 +1112,8 @@
       <category term="Tor" scheme="http://kiranakkineni.com/tags/Tor/"/>
     
       <category term="Ethereum" scheme="http://kiranakkineni.com/tags/Ethereum/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
   </entry>
   
@@ -1202,9 +1342,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Legal" scheme="http://kiranakkineni.com/tags/Legal/"/>
     
@@ -1264,9 +1404,9 @@
       <category term="Ideas" scheme="http://kiranakkineni.com/categories/Ideas/"/>
     
     
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
       <category term="Startup ideas" scheme="http://kiranakkineni.com/tags/Startup-ideas/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
@@ -1394,15 +1534,15 @@
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -1508,15 +1648,15 @@
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
@@ -1621,15 +1761,15 @@
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
-      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
-    
       <category term="Weekly reads" scheme="http://kiranakkineni.com/tags/Weekly-reads/"/>
     
       <category term="Articles" scheme="http://kiranakkineni.com/tags/Articles/"/>
     
-      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
+      <category term="Startups" scheme="http://kiranakkineni.com/tags/Startups/"/>
     
       <category term="Work" scheme="http://kiranakkineni.com/tags/Work/"/>
+    
+      <category term="Product management" scheme="http://kiranakkineni.com/tags/Product-management/"/>
     
       <category term="Strategy" scheme="http://kiranakkineni.com/tags/Strategy/"/>
     
