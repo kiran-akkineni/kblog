@@ -157,10 +157,10 @@
   
   <entry>
     <title>Marketing payback interval</title>
-    <link href="http://kiranakkineni.com/marketing-payback-interval/2016/07/28/"/>
-    <id>http://kiranakkineni.com/marketing-payback-interval/2016/07/28/</id>
+    <link href="http://kiranakkineni.com/marketing-time-to-payback/2016/07/28/"/>
+    <id>http://kiranakkineni.com/marketing-time-to-payback/2016/07/28/</id>
     <published>2016-07-28T19:00:00.000Z</published>
-    <updated>2016-07-30T17:55:56.000Z</updated>
+    <updated>2016-07-30T18:07:29.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;The-concept&quot;&gt;
   &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
@@ -540,6 +540,8 @@
       <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
     
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="Time to Payback" scheme="http://kiranakkineni.com/tags/Time-to-Payback/"/>
     
   </entry>
   
