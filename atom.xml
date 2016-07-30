@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kiranakkineni.com/"/>
-  <updated>2016-07-30T17:06:29.000Z</updated>
+  <updated>2016-07-30T17:54:56.000Z</updated>
   <id>http://kiranakkineni.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Simpson&#39;s Paradox (mix effects)</title>
+    <title>Simpson&#39;s Paradox</title>
     <link href="http://kiranakkineni.com/simpsons-paradox/2016/07/29/"/>
     <id>http://kiranakkineni.com/simpsons-paradox/2016/07/29/</id>
     <published>2016-07-29T20:00:00.000Z</published>
-    <updated>2016-07-30T17:06:29.000Z</updated>
+    <updated>2016-07-30T17:54:56.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;The-concept&quot;&gt;
   &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
@@ -160,7 +160,7 @@
     <link href="http://kiranakkineni.com/marketing-payback-interval/2016/07/28/"/>
     <id>http://kiranakkineni.com/marketing-payback-interval/2016/07/28/</id>
     <published>2016-07-28T19:00:00.000Z</published>
-    <updated>2016-07-30T17:53:29.000Z</updated>
+    <updated>2016-07-30T17:55:56.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;The-concept&quot;&gt;
   &lt;a href=&quot;#The-concept&quot; class=&quot;headerlink&quot; title=&quot;The concept&quot;&gt;&lt;/a&gt;The concept&lt;/h1&gt;
@@ -310,37 +310,202 @@
 &lt;p&gt;Let’s put together a table of cumulative profit for each ad type, net of the $1000
   initial investment. Let’s also add some columns for reinvested $1000 investments,
   that you can only make when you get your initial $1000 back from the prior investment.&lt;/p&gt;
-&lt;p&gt;Here is the cumulative profit table for Search:
-  &lt;br&gt;| Month | 1st investment | 2nd investment | 3rd investment | 4th investment | 5th
-  investment | 6th investment |
-  &lt;br&gt;|——-|—————-|—————-|—————-|—————-|—————-|—————-|
-  &lt;br&gt;| Jan | ($500) | | | | | |
-  &lt;br&gt;| Feb | ($200) | | | | | |
-  &lt;br&gt;| Mar | $0 | ($500) | | | | |
-  &lt;br&gt;| Apr | $100 | ($200) | | | | |
-  &lt;br&gt;| May | $200 | $0 | ($500) | | | |
-  &lt;br&gt;| Jun | $300 | $100 | ($200) | | | |
-  &lt;br&gt;| Jul | $350 | $200 | $0 | ($500) | | |
-  &lt;br&gt;| Aug | $400 | $300 | $100 | ($200) | | |
-  &lt;br&gt;| Sep | $450 | $350 | $200 | $0 | ($500) | |
-  &lt;br&gt;| Oct | $500 | $400 | $300 | $100 | ($200) | |
-  &lt;br&gt;| Nov | $550 | $450 | $350 | $200 | $0 | ($500) |
-  &lt;br&gt;| Dec | $600 | $500 | $400 | $300 | $100 | ($200) |&lt;/p&gt;
-&lt;p&gt;Here is the cumulative profit table for Social:
-  &lt;br&gt;| Month | 1st investment | 2nd investment |
-  &lt;br&gt;|——-|—————-|—————-|
-  &lt;br&gt;| Jan | ($950 | |
-  &lt;br&gt;| Feb | ($900 | |
-  &lt;br&gt;| Mar | -$800 | |
-  &lt;br&gt;| Apr | -$700 | |
-  &lt;br&gt;| May | -$500 | |
-  &lt;br&gt;| Jun | -$300 | |
-  &lt;br&gt;| Jul | $100 | -$950 |
-  &lt;br&gt;| Aug | $600 | -$900 |
-  &lt;br&gt;| Sep | $900 | -$800 |
-  &lt;br&gt;| Oct | $1,000 | -$700 |
-  &lt;br&gt;| Nov | $1,050 | -$500 |
-  &lt;br&gt;| Dec | $1,100 | -$300 |&lt;/p&gt;
+&lt;p&gt;Here is the cumulative profit table for Search:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Month&lt;/th&gt;
+      &lt;th&gt;1st investment&lt;/th&gt;
+      &lt;th&gt;2nd investment&lt;/th&gt;
+      &lt;th&gt;3rd investment&lt;/th&gt;
+      &lt;th&gt;4th investment&lt;/th&gt;
+      &lt;th&gt;5th investment&lt;/th&gt;
+      &lt;th&gt;6th investment&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jan&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feb&lt;/td&gt;
+      &lt;td&gt;($200)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mar&lt;/td&gt;
+      &lt;td&gt;$0&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Apr&lt;/td&gt;
+      &lt;td&gt;$100&lt;/td&gt;
+      &lt;td&gt;($200)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;May&lt;/td&gt;
+      &lt;td&gt;$200&lt;/td&gt;
+      &lt;td&gt;$0&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jun&lt;/td&gt;
+      &lt;td&gt;$300&lt;/td&gt;
+      &lt;td&gt;$100&lt;/td&gt;
+      &lt;td&gt;($200)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jul&lt;/td&gt;
+      &lt;td&gt;$350&lt;/td&gt;
+      &lt;td&gt;$200&lt;/td&gt;
+      &lt;td&gt;$0&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aug&lt;/td&gt;
+      &lt;td&gt;$400&lt;/td&gt;
+      &lt;td&gt;$300&lt;/td&gt;
+      &lt;td&gt;$100&lt;/td&gt;
+      &lt;td&gt;($200)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sep&lt;/td&gt;
+      &lt;td&gt;$450&lt;/td&gt;
+      &lt;td&gt;$350&lt;/td&gt;
+      &lt;td&gt;$200&lt;/td&gt;
+      &lt;td&gt;$0&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oct&lt;/td&gt;
+      &lt;td&gt;$500&lt;/td&gt;
+      &lt;td&gt;$400&lt;/td&gt;
+      &lt;td&gt;$300&lt;/td&gt;
+      &lt;td&gt;$100&lt;/td&gt;
+      &lt;td&gt;($200)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nov&lt;/td&gt;
+      &lt;td&gt;$550&lt;/td&gt;
+      &lt;td&gt;$450&lt;/td&gt;
+      &lt;td&gt;$350&lt;/td&gt;
+      &lt;td&gt;$200&lt;/td&gt;
+      &lt;td&gt;$0&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dec&lt;/td&gt;
+      &lt;td&gt;$600&lt;/td&gt;
+      &lt;td&gt;$500&lt;/td&gt;
+      &lt;td&gt;$400&lt;/td&gt;
+      &lt;td&gt;$300&lt;/td&gt;
+      &lt;td&gt;$100&lt;/td&gt;
+      &lt;td&gt;($200)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Here is the cumulative profit table for Social:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Month&lt;/th&gt;
+      &lt;th&gt;1st investment&lt;/th&gt;
+      &lt;th&gt;2nd investment&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jan&lt;/td&gt;
+      &lt;td&gt;($950)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feb&lt;/td&gt;
+      &lt;td&gt;($900)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mar&lt;/td&gt;
+      &lt;td&gt;($800)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Apr&lt;/td&gt;
+      &lt;td&gt;($700)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;May&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jun&lt;/td&gt;
+      &lt;td&gt;($300)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jul&lt;/td&gt;
+      &lt;td&gt;$100&lt;/td&gt;
+      &lt;td&gt;($950)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aug&lt;/td&gt;
+      &lt;td&gt;$600&lt;/td&gt;
+      &lt;td&gt;($900)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sep&lt;/td&gt;
+      &lt;td&gt;$900&lt;/td&gt;
+      &lt;td&gt;($800)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oct&lt;/td&gt;
+      &lt;td&gt;$1,000&lt;/td&gt;
+      &lt;td&gt;($700)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nov&lt;/td&gt;
+      &lt;td&gt;$1,050&lt;/td&gt;
+      &lt;td&gt;($500)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dec&lt;/td&gt;
+      &lt;td&gt;$1,100&lt;/td&gt;
+      &lt;td&gt;($300)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;As you can see, because the payback interval for Search is so much faster than the
   interval for Social, you are able to reinvest so many more times (6 vs. 2 over
   the course of a year). As a result, the cumulative return by December for Search
@@ -776,6 +941,74 @@
   </entry>
   
   <entry>
+    <title>Customer Acquisition Cost (CAC)</title>
+    <link href="http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/"/>
+    <id>http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/</id>
+    <published>2016-07-23T19:00:00.000Z</published>
+    <updated>2016-07-24T06:19:06.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;CAC-defined&quot;&gt;
+  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
+&lt;p&gt;Customer acquisition cost represents how many marketing dollars it costs to get customers
+  to buy your product for the first time. The basic CAC calculation is [Total Marketing
+  Spend]/[Total New Customers].&lt;/p&gt;
+&lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
+  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
+&lt;p&gt;The lower your CAC is relative to the total amount a customer spends with you over
+  their lifetime (LTV), the better. It means you can potentially increase marketing
+  spend in order to grow and scale your business. If your CAC is relatively high,
+  it likely means you need more optimization around your marketing or that your business
+  needs to depend more heavily on organic marketing (word of mouth, social, SEO)&lt;/p&gt;
+&lt;h1 id=&quot;Diving-deeper&quot;&gt;
+  &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
+&lt;p&gt;Given that CAC is a cost, it’s especially important to understand it in more detail.
+  It’s easy to waste marketing dollars, especially in digital marketing, where more
+  spend almost always seems to mean more customers.
+  &lt;br&gt;Some additional analysis worth knowing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CAC by marketing channel&lt;/li&gt;
+  &lt;li&gt;Components comprising CAC (cost of traffic, conversion rate, new customer %)&lt;/li&gt;
+  &lt;li&gt;CAC of the marginal or incremental customer if you increase marketing spend&lt;/li&gt;
+  &lt;li&gt;Impact of the sales cycle on CAC (it can go down over time with long sales cycles)&lt;/li&gt;
+  &lt;li&gt;Percentage of marketing spend that is driving repeat customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Conclusion&quot;&gt;
+  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;For any company that expands through paid marketing channels, it’s imperative to
+  understand CAC and how it evolves as those channels mature over the business’ lifecycle.&lt;/p&gt;
+&lt;p&gt;If you are planning on raising capital for your business, make sure to know it across
+  all meaningful dimensions. Most investors will assume some portion of the raised
+  funds (especially mid-to-late stages) will be dedicated to marketing. They’ll want
+  to know the funds will be deployed prudently, and knowing CAC is a basic requirement
+  for that.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;CAC-defined&quot;&gt;
+  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
+&lt;p&gt;Customer acquisition cost repr
+    
+    </summary>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
+    
+    
+      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
+    
+      <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
+    
+      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
+    
+      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
+    
+      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
+    
+      <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Average Order Value (AOV)</title>
     <link href="http://kiranakkineni.com/average-order-value/2016/07/23/"/>
     <id>http://kiranakkineni.com/average-order-value/2016/07/23/</id>
@@ -850,74 +1083,6 @@
       <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
     
       <category term="AOV" scheme="http://kiranakkineni.com/tags/AOV/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Customer Acquisition Cost (CAC)</title>
-    <link href="http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/"/>
-    <id>http://kiranakkineni.com/customer-acquisition-cost/2016/07/23/</id>
-    <published>2016-07-23T19:00:00.000Z</published>
-    <updated>2016-07-24T06:19:06.000Z</updated>
-    
-    <content type="html">&lt;h1 id=&quot;CAC-defined&quot;&gt;
-  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
-&lt;p&gt;Customer acquisition cost represents how many marketing dollars it costs to get customers
-  to buy your product for the first time. The basic CAC calculation is [Total Marketing
-  Spend]/[Total New Customers].&lt;/p&gt;
-&lt;h1 id=&quot;Why-is-it-useful&quot;&gt;
-  &lt;a href=&quot;#Why-is-it-useful&quot; class=&quot;headerlink&quot; title=&quot;Why is it useful?&quot;&gt;&lt;/a&gt;Why is it useful?&lt;/h1&gt;
-&lt;p&gt;The lower your CAC is relative to the total amount a customer spends with you over
-  their lifetime (LTV), the better. It means you can potentially increase marketing
-  spend in order to grow and scale your business. If your CAC is relatively high,
-  it likely means you need more optimization around your marketing or that your business
-  needs to depend more heavily on organic marketing (word of mouth, social, SEO)&lt;/p&gt;
-&lt;h1 id=&quot;Diving-deeper&quot;&gt;
-  &lt;a href=&quot;#Diving-deeper&quot; class=&quot;headerlink&quot; title=&quot;Diving deeper&quot;&gt;&lt;/a&gt;Diving deeper&lt;/h1&gt;
-&lt;p&gt;Given that CAC is a cost, it’s especially important to understand it in more detail.
-  It’s easy to waste marketing dollars, especially in digital marketing, where more
-  spend almost always seems to mean more customers.
-  &lt;br&gt;Some additional analysis worth knowing:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;CAC by marketing channel&lt;/li&gt;
-  &lt;li&gt;Components comprising CAC (cost of traffic, conversion rate, new customer %)&lt;/li&gt;
-  &lt;li&gt;CAC of the marginal or incremental customer if you increase marketing spend&lt;/li&gt;
-  &lt;li&gt;Impact of the sales cycle on CAC (it can go down over time with long sales cycles)&lt;/li&gt;
-  &lt;li&gt;Percentage of marketing spend that is driving repeat customers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;Conclusion&quot;&gt;
-  &lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;
-&lt;p&gt;For any company that expands through paid marketing channels, it’s imperative to
-  understand CAC and how it evolves as those channels mature over the business’ lifecycle.&lt;/p&gt;
-&lt;p&gt;If you are planning on raising capital for your business, make sure to know it across
-  all meaningful dimensions. Most investors will assume some portion of the raised
-  funds (especially mid-to-late stages) will be dedicated to marketing. They’ll want
-  to know the funds will be deployed prudently, and knowing CAC is a basic requirement
-  for that.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;CAC-defined&quot;&gt;
-  &lt;a href=&quot;#CAC-defined&quot; class=&quot;headerlink&quot; title=&quot;CAC defined&quot;&gt;&lt;/a&gt;CAC defined&lt;/h1&gt;
-&lt;p&gt;Customer acquisition cost repr
-    
-    </summary>
-    
-      <category term="Analytics" scheme="http://kiranakkineni.com/categories/Analytics/"/>
-    
-    
-      <category term="ECommerce" scheme="http://kiranakkineni.com/tags/ECommerce/"/>
-    
-      <category term="Marketing" scheme="http://kiranakkineni.com/tags/Marketing/"/>
-    
-      <category term="Metrics" scheme="http://kiranakkineni.com/tags/Metrics/"/>
-    
-      <category term="Analytics" scheme="http://kiranakkineni.com/tags/Analytics/"/>
-    
-      <category term="Kiran Akkineni" scheme="http://kiranakkineni.com/tags/Kiran-Akkineni/"/>
-    
-      <category term="CAC" scheme="http://kiranakkineni.com/tags/CAC/"/>
     
   </entry>
   
